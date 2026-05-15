@@ -1,14 +1,13 @@
-"""
-load_kaggle.py
---------------
-Converts the Kaggle earnings call transcripts dataset (.pkl or .csv)
-into individual .txt files for our pipeline.
+""" 
+DESCRIPTION FROM THE KAGGLE PAGE
+Earnings call transcripts scraped from https://www.fool.com/earnings-call-transcripts/.
+
+Each row consists of a date, exchange, quarter, ticker and transcript.
+
+Has not yet been cleaned.
 
 Dataset: https://www.kaggle.com/datasets/tpotterer/motley-fool-scraped-earnings-call-transcripts
 
-Usage:
-    python3 load_kaggle.py --file earnings-call-transcripts.pkl
-    python3 load_kaggle.py --file earnings-call-transcripts.csv
 """
 
 from dotenv import load_dotenv
