@@ -1,0 +1,13 @@
+# Never commit your API keys
+.env
+
+# Data files (too large for git)
+data/prices/
+data/chroma_db/
+data/signals/
+data/*.json
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
