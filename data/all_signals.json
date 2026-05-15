@@ -1,0 +1,3121 @@
+[
+  {
+    "ticker": "QCOM",
+    "date": "2022-02-02",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "record fiscal first-quarter revenues of $10.7 billion and record non-GAAP earnings per share of $3.23",
+      "Our chipset business had its second consecutive quarter of record performance with revenues of $8.8 billion, EBIT of $3.1 billion, and EBIT margin of 35%",
+      "In IoT, we continue to see strong momentum with revenue growth of 41% year over year in the first quarter"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "CRM",
+    "date": "2020-02-25",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "raised",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Revenue in the quarter rose to nearly $4.9 billion, up 34% in constant currency, truly amazing for a company of our size",
+      "we're raising our fiscal year 2021 revenue guidance to $21.1 billion at the high end of our range, representing about 23% projected growth year-over-year",
+      "no other company of our size is growing at this rate"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "META",
+    "date": "2019-07-24",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Our community and business continue to grow and there are now more than 2.7 billion people using Facebook, Instagram, WhatsApp or Messenger each month",
+      "Together, we expect these changes will set a new standard for our industry",
+      "Privacy has always been important to the services we provide and now it's even more central to our future vision for social networking"
+    ],
+    "key_bearish_phrases": [
+      "we've agreed to pay a $5 billion fine",
+      "I expect it will take us longer to ship new products, especially, while we're getting this up and running",
+      "we're going to continue to identify and fix issues as we develop our systems"
+    ],
+    "macro_concerns_mentioned": [
+      "privacy concerns",
+      "regulation",
+      "FTC settlement"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "ticker": "WFC",
+    "date": "2021-07-14",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We earned $6 billion or $1.38 per common share in the second quarter",
+      "Revenue increased compared with the first quarter",
+      "we are pleased that our results continue to show progress"
+    ],
+    "key_bearish_phrases": [
+      "high levels of liquidity, weakness in supply chains, and low-interest rates remained as headwinds",
+      "the work remaining is significant, and as such, this remains a multi-year journey for us",
+      "continued decline in Commercial Banking loans outstanding"
+    ],
+    "macro_concerns_mentioned": [
+      "interest rates",
+      "supply chain shortages",
+      "liquidity levels"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2019-05-01",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "Our fiscal second quarter non-GAAP earnings of $0.77 per share exceeded the high end of our guidance range, driven by higher licensing revenues and stronger QCT margins.",
+      "We now have over 75 5G design wins more than double the number we announced last January, driven by OEM designs with our first and second generation 5G modems.",
+      "Our year-to-date non-Apple QCT operating income doubled compared to a two year-ago period putting us in a strong position to grow revenues and profits as we began ramping 5G"
+    ],
+    "key_bearish_phrases": [
+      "the rest of the fiscal year will be impacted by a slower market for devices, particularly in China, upstream of the larger rollouts of 5G worldwide"
+    ],
+    "macro_concerns_mentioned": [
+      "slower device market in China"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "AAPL",
+    "date": "2022-07-28",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Today, Apple is reporting another record June quarter with revenue of $83 billion, which was better than we expected",
+      "We set June quarter records in the Americas, in Europe, and in the rest of Asia Pacific region",
+      "We saw great enthusiasm for our products and services, resulting in an all-time record for our installed base of active devices"
+    ],
+    "key_bearish_phrases": [
+      "better than we expected despite supply constraints, strong foreign exchange headwinds, and the impact of our business in Russia",
+      "We continue to have supply constraints with Mac",
+      "iPad, like Mac, continued to see strong demand during the June quarter despite ongoing supply constraints"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds",
+      "supply constraints",
+      "COVID-19",
+      "Russia",
+      "uncertain economic environment"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "META",
+    "date": "2020-04-29",
+    "overall_sentiment": "bearish",
+    "sentiment_score": -0.4,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we've directed more than 2 billion people to it",
+      "The vast majority of us at Facebook our working productively from home",
+      "this is work that we're uniquely positioned to do, because Facebook is a global community"
+    ],
+    "key_bearish_phrases": [
+      "The impacts on our business has been significant and I remain very concerned that this health emergency and therefore the economic fallout will last longer than people are currently anticipating",
+      "There is a lot of uncertainty now about the world and what it will look like over the coming months",
+      "I worry the reopening in certain places to quickly before infection rates have been reduced to very minimal levels, will almost guarantee future outbreaks and worse, longer-term health and economic outcomes"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic",
+      "economic fallout",
+      "shelter-in-place restrictions",
+      "health emergency duration"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2022-09-12",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We had an excellent quarter with total revenue growing 23% in constant currency and beating the high end of our guidance",
+      "our growth rates are higher than our hyperscale competitors... our growth rates are increasing as we get bigger",
+      "We continue to expect organic revenue growth in our cloud business will accelerate substantially in FY '23"
+    ],
+    "key_bearish_phrases": [
+      "The currency headwind this quarter was much higher than the 3% headwind that was present when we gave guidance. It was actually six points",
+      "we still exceeded our forecast on a reported basis, and we beat our constant-currency revenue forecast by $200 million"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds",
+      "currency volatility"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "MA",
+    "date": "2022-07-28",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We delivered strong revenue and earnings growth with further improvement in our underlying operating metrics, notably in cross-border travel. Quarter 2 adjusted net revenues were up 27% and adjusted operating income up 40% versus a year ago",
+      "consumer spending and particularly travel-related spending remains strong",
+      "Cross-border travel in Quarter 2 has now reached 118% of 2019 levels"
+    ],
+    "key_bearish_phrases": [
+      "Inflationary pressures have remained persistent, and we are now seeing central banks taking even more aggressive steps to reduce inflation",
+      "The situation has been compounded by geopolitical tensions and supply chain constraints",
+      "the risks related to both the supply of natural gas and higher interest rates remain headwinds"
+    ],
+    "macro_concerns_mentioned": [
+      "inflation",
+      "interest rates",
+      "geopolitical tensions",
+      "supply chain constraints",
+      "FX headwinds"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "PYPL",
+    "date": "2022-11-03",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "raised",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "our results in the third quarter exceeded the guidance that we announced in August, marking the third consecutive quarter of delivering on our non-GAAP guidance",
+      "We remain on track to drive over $900 million in cost savings across our operating and transaction expenses this year and at least $1.3 billion in cost savings next year",
+      "we now expect to grow our year-over-year non-GAAP operating margin in Q4 to approximately 22.5%. We further anticipate that in 2023, we will deliver at least 100 basis points of operating margin expansion"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [
+      "FX headwinds"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2021-04-29",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.78,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "AWS revenue growth accelerated across a broad range of customers",
+      "Revenue growth in our international segment grew 50% on an FX-neutral basis year over year in Q1",
+      "Third-party units represented 55% of our total paid units in Q1, up from 52% in Q1 of last year"
+    ],
+    "key_bearish_phrases": [
+      "Our results are inherently unpredictable and may be materially affected by many factors",
+      "our actual results could differ materially from our guidance",
+      "highly dependent on numerous factors that we may not be able to predict or control"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic",
+      "foreign exchange rates",
+      "global economic conditions",
+      "workforce staffing and productivity"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "V",
+    "date": "2022-10-25",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Visa's performance in 2022 was very strong even with the uncertainty created by inflation, the war in Ukraine, COVID, the timing of cross-border travel recovery, and a potential recession",
+      "fiscal full year net revenues up 22% year over year and non-GAAP EPS of $7.50, up 27%",
+      "cross-border volumes, excluding intra-Europe, were up 49% year over year and 130% versus three years ago, up 7 points from Q3"
+    ],
+    "key_bearish_phrases": [
+      "uncertainty created by inflation, the war in Ukraine, COVID, the timing of cross-border travel recovery, and a potential recession",
+      "Total Q4 payments volume was up 10% year over year, or 135%, versus three years ago, down 1 point from Q3",
+      "International volume was up 9% year over year, or 126% of 2019, down 1 point versus Q3"
+    ],
+    "macro_concerns_mentioned": [
+      "inflation",
+      "war in Ukraine",
+      "COVID",
+      "potential recession",
+      "Russia exclusions"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "TSLA",
+    "date": "2020-04-29",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.82,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "This is the first time we have achieved positive GAAP net income in a seasonally weak first quarter.",
+      "Most surprisingly, Model Y was profitable already in its first quarter of production, something we haven't achieved with any product in the past.",
+      "I feel extremely confident that it will be possible to do a drive from your home to your office, and most of the time with no interventions by the end of the year."
+    ],
+    "key_bearish_phrases": [
+      "Q1 ended up being a strong quarter despite many challenges in the final few weeks.",
+      "Even with all the challenges"
+    ],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "NFLX",
+    "date": "2021-10-19",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "churn at low levels, down prior to the comparable periods, both in 2020 and two years ago, pre-COVID in 2019",
+      "as we got into the strength of the schedule on top of already kind of healthy business fundamentals, we saw a bit of an uptick in growth",
+      "we hoped that we were getting toward that kind of tail end of the COVID choppiness"
+    ],
+    "key_bearish_phrases": [
+      "growth was a little bit soft in the quarter",
+      "both of those markets are a bit more mature, more tenured, more penetrated than some of our other markets. So, we would expect growth to be just a little bit harder to work for",
+      "those production delays that we're working through"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID choppiness",
+      "production delays"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2020-07-30",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Our consolidated revenue and operating income significantly exceeded the top end of our guidance range",
+      "Prime member growth rate accelerated both in the U.S. and worldwide",
+      "Online grocery sales tripled year-over-year"
+    ],
+    "key_bearish_phrases": [
+      "In Q2, we incurred more than $4 billion of COVID-related expenses",
+      "We also experienced productivity headwinds in our facilities",
+      "our actual results could differ materially from our guidance"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic",
+      "global economic conditions",
+      "foreign exchange rates",
+      "workforce staffing and productivity"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "AMD",
+    "date": "2021-10-26",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We delivered our fifth straight quarter of greater than 50% year-over-year revenue growth, with each of our businesses growing significantly year over year and data center sales more than doubling.",
+      "Our business performed extremely well in the third quarter as our leadership product portfolio and strong execution drove record quarterly revenue, operating income, net income, and earnings per share.",
+      "Third-quarter revenue grew 54% to $4.3 billion. Gross margin expanded by more than 4 percentage points and operating income doubled year over year."
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "MA",
+    "date": "2022-10-27",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "consumer spending remained resilient, and cross-border travel continues to recover. With this backdrop, we delivered strong revenue and earnings growth through the focused execution of our strategy.",
+      "Third quarter net revenues were up 23% and adjusted operating income up 27%, both versus a year ago on a non-GAAP currency-neutral basis",
+      "Cross-border travel in the third quarter has reached 124% of 2019 levels"
+    ],
+    "key_bearish_phrases": [
+      "the macroeconomic and geopolitical environment remains uncertain. Inflationary pressures have remained elevated and central banks are continuing to take aggressive steps to bring inflation in line.",
+      "Tensions remain high with the war in Ukraine and the supply of natural gas to Europe is a concern.",
+      "Should the market outlook weaken, we are prepared to act quickly to modulate our expenses."
+    ],
+    "macro_concerns_mentioned": [
+      "inflation",
+      "interest rates",
+      "war in Ukraine",
+      "natural gas supply Europe",
+      "geopolitical environment"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "TSLA",
+    "date": "2021-07-26",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "Q2 2021 was a record quarter on many levels. We achieved record production, deliveries, and surpassed over $1 billion in GAAP net income for the first time in Tesla's history.",
+      "public sentiment toward EVs is at an inflection point. And at this point, I think almost everyone agrees that electric vehicles are the only way forward.",
+      "we expect to be producing the sort of new design of the Model Y in both factories in limited production later this year."
+    ],
+    "key_bearish_phrases": [
+      "the global chip shortage situation remains quite serious. For the rest of this year, our growth rates will be determined by the slowest part in our supply chain",
+      "The chip supply is fundamentally the governing factor on our output. It is difficult for us to say how long this will last because we don't have -- this is out of our control essentially.",
+      "it's insanely difficult. I'm fond of saying that prototypes are easy, and production is hard."
+    ],
+    "macro_concerns_mentioned": [
+      "chip shortage",
+      "supply chain constraints"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "BAC",
+    "date": "2022-01-19",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.82,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "The pre-pandemic organic growth engine that is Bank of America is fully back in place and producing success",
+      "Fourth quarter represented the strongest quarter of organic loan growth we have experienced at Bank of America",
+      "We generated more than $7 billion of earnings in every quarter in 2021"
+    ],
+    "key_bearish_phrases": [
+      "Our COVID-related costs remained elevated",
+      "while we do not see full-year operating leverage"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID variant",
+      "rate volatility"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2022-11-16",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.1,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We delivered record data center and automotive revenue",
+      "H-100 delivers incredible value compared to the previous generation for equivalent AI performance it offers three x lower total cost of ownership while using five x fewer server nodes and 3.5 x less energy",
+      "Year-on-year growth was driven primarily by leading U.S. cloud providers and a broadening set of consumer Internet companies for workloads such as large language models, recommendation systems and generative AI"
+    ],
+    "key_bearish_phrases": [
+      "Q3 revenue was $5.93 billion, down 12% sequentially and down 17% year on year",
+      "our gaming and pro visualization platforms declined as we work through channel inventory corrections and challenging external conditions",
+      "demand in China more broadly remains soft, and we expect that to continue in the current quarter"
+    ],
+    "macro_concerns_mentioned": [
+      "macroeconomic challenges",
+      "export controls",
+      "supply chain disruptions",
+      "China demand weakness"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "JPM",
+    "date": "2021-07-13",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Combined debit and credit spend was up 45% year on year and more importantly, up 22% versus the more normal pre-COVID second quarter of 2019",
+      "It was an all-time record for IB fees, up 25% year on year, driven by advisory and debt underwriting",
+      "credit continues to be quite healthy, as evidenced by our exceptionally low net charge-offs across the board"
+    ],
+    "key_bearish_phrases": [
+      "loan growth remains low, flat year on year and up 1% quarter on quarter",
+      "net interest income was down $1.1 billion or 8%, driven by lower markets NII and lower balances in card",
+      "elevated remaining uncertainty about COVID and the shape of the economic recovery"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID",
+      "economic recovery uncertainty",
+      "interest rates"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "INTC",
+    "date": "2021-01-21",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.2,
+    "management_tone": "cautious",
+    "guidance_direction": "withdrawn",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "once again delivered record results in the past year",
+      "The business is well-positioned to capitalize on key technology inflections and extend our reach into fast-growing markets",
+      "I am pleased with the progress made on the health and recovery of the 7-nanometer"
+    ],
+    "key_bearish_phrases": [
+      "we will be providing full-year guidance for 2021 at a later date, no later than our next earnings call in April",
+      "The company faced challenging issues when Bob took over",
+      "lead this great technology innovator during a critical time of change and disruption"
+    ],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.85
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2019-08-15",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "in-line",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We are pleased with the strong sequential growth in the quarter, when we launched our RTX Super lineup for desktop gamers",
+      "The laptop business continues to be a standout growth driver as OEMs are ramping a record 100 plus gaming laptop models",
+      "RTX Studio laptops deliver performance that's up to seven times faster than that of the MacBook Pro"
+    ],
+    "key_bearish_phrases": [
+      "Q2 revenue was $2.58 billion in line with our outlook down 17% year-on-year",
+      "revenue of $1.31 billion was down 27% year-on-year",
+      "data center, revenue was $655 million, down 14% year-on-year"
+    ],
+    "macro_concerns_mentioned": [
+      "weak overall spending as a handful of CSPs",
+      "hyperscales use were muted"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "INTC",
+    "date": "2020-07-23",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "We exceeded our guidance by 1.2 billion on the top line and $0.13 on the bottom line",
+      "Our data-centric businesses grew 34% and drove approximately 52% of the company's revenue",
+      "both our cloud and comms service provider businesses grew more than 40% year over year"
+    ],
+    "key_bearish_phrases": [
+      "COVID-19 has driven redesigned workflows and added additional environmental stress that I know has strained employees and ecosystem partners",
+      "Amid a very challenging environment"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2019-12-12",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "in-line",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "I expect that you will see us expand our margins and grow EPS double-digits for the foreseeable future",
+      "We continue to be encouraged that our overall revenue growth will further accelerate, as we reach the final stages of this ongoing shift in business mix",
+      "They see Oracle as being strategic to their ongoing operations and they tell me repeatedly that Oracle is the right partner to run their mission critical assets"
+    ],
+    "key_bearish_phrases": [
+      "it more than offsets declines in some smaller non-strategic businesses"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "CRM",
+    "date": "2019-08-22",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.82,
+    "management_tone": "confident",
+    "guidance_direction": "raised",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Revenue in the quarter rose to $4 billion, up 22% in dollars, and 23% in constant currency",
+      "we are raising our fiscal year '20 revenue guidance to $16.9 billion at the high end of our range, representing about 27% growth year-over-year",
+      "we've just never really been better positioned for the future. In fact, we're at the beginning of enormous wave of digital transformation"
+    ],
+    "key_bearish_phrases": [
+      "Due to the whole separate order, our ability to discuss Tableau today on this call is limited",
+      "the United Kingdom Competition and Markets Authority or CMA is reviewing the transaction and has imposed a whole separate order pending completion of its review"
+    ],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "GOOGL",
+    "date": "2021-07-27",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we saw a rising tide of online consumer and business activity",
+      "Q2 revenue grew 54% year-over-year",
+      "over $120 billion has been earned cumulatively by developers around the world from Google Play"
+    ],
+    "key_bearish_phrases": [
+      "the new COVID-19 variants have been challenging for so many communities across the world"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 variants",
+      "cyber and ransomware attacks"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "JPM",
+    "date": "2022-10-14",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.25,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Our strong results this quarter reflect the resilience of the franchise in a dynamic environment",
+      "credit is still healthy with net charge-offs remaining low",
+      "We ranked No. 1 in retail deposit share based on FDIC data"
+    ],
+    "key_bearish_phrases": [
+      "small business owners are increasingly focused on the risks and the economic outlook",
+      "with spending growing faster than income, we are seeing a continued decrease in median deposits year on year, particularly in the lower-income segment",
+      "Underwriting businesses continued to be affected by market volatility"
+    ],
+    "macro_concerns_mentioned": [
+      "interest rates",
+      "market volatility",
+      "economic outlook",
+      "vehicle supply constraints"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "MA",
+    "date": "2021-10-28",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.82,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "Strong revenue and earnings growth continued. The net revenue up 29% and EPS up 48% versus a year ago",
+      "Quarter 3 net revenues are now 11% above pre-COVID levels in 2019",
+      "Overall, cross-border returned to 2019 levels in August, driven by improvements in consumer and commercial travel, as well as the ongoing strength of cross-border card-not-present spending ex travel"
+    ],
+    "key_bearish_phrases": [
+      "economies are facing supply chain constraints, rising energy prices and some other inflationary pressures",
+      "Debit spend remains elevated, although it has moderated in recent weeks in part due to waning stimulus benefits"
+    ],
+    "macro_concerns_mentioned": [
+      "supply chain constraints",
+      "rising energy prices",
+      "inflationary pressures",
+      "waning stimulus benefits"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2020-11-04",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "We delivered Q4 non-GAAP revenues of $6.5 billion and a record non-GAAP earnings of $1.45 per share, representing year-over-year growth of 35% and 86%, respectively, both exceeding the high end of our guidance",
+      "the early stages of the 5G ramp are well under way, with our strategy playing out largely as expected",
+      "In fiscal '20, we delivered $2.4 billion of RF front-end revenue, up 60% year over year"
+    ],
+    "key_bearish_phrases": [
+      "Fiscal 2020 was an extraordinary year, presenting both a unique set of opportunities as well as challenges",
+      "our transition from a 4G leader to a 5G leader was faced with numerous challenges",
+      "we have sustained this focus despite unwarranted legal challenges"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "NFLX",
+    "date": "2023-01-19",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we've been able to build a really trusting, respectful, and complementary partnership",
+      "I'm tremendously proud of the partnership that we've developed",
+      "I'm even more excited about continuing to push that into '23"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.75
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2021-01-26",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "It was a record quarter driven by our commercial cloud, which surpassed $16 billion in revenue, up 34% year over year.",
+      "What we are witnessing is the dawn of a second wave of digital transformation sweeping every company and every industry.",
+      "We are seeing momentum in every industry."
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "GOOGL",
+    "date": "2020-04-28",
+    "overall_sentiment": "cautious",
+    "sentiment_score": -0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we'll see a long-term acceleration of movement from businesses to digital services, including increased online work, education, medicine, shopping, and entertainment. These changes will be significant and lasting.",
+      "This is a testament to strategic areas where we have invested over recent years, products that people trust, our technical leadership and innovation, deep partnerships, a highly skilled workforce, and the scale and resilience of our operations.",
+      "it's been a huge privilege to be able to help people and businesses at this moment"
+    ],
+    "key_bearish_phrases": [
+      "Today, there is still a great deal of uncertainty regarding the path to recovery",
+      "our advertising business, which was significantly impacted in the last few weeks of the quarter",
+      "A return to normal economic activity depends on how effectively societies manage the spread of the virus. There is no one size fits all and the timing and pace of recovery will vary from location to location."
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic",
+      "economic uncertainty",
+      "recovery timing variability",
+      "advertising impact"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "GOOGL",
+    "date": "2021-02-02",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.82,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Google Cloud delivered revenue growth of 47% year-over-year, with GCP growth remaining meaningfully above the growth rate for Cloud overall",
+      "our backlog grew to nearly $30 billion, up from $19 billion in Q3, nearly all attributable to Cloud",
+      "Deals over $250 million more than tripled in the same period"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "ticker": "CRM",
+    "date": "2020-05-28",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we were coming off an amazing fourth quarter. It capped off another record year for Salesforce",
+      "February, the first month of our first quarter of fiscal year '21 just continued an amazing growth trajectory",
+      "this transition was extremely smooth. We rapidly learned that we can run Salesforce very effectively anywhere"
+    ],
+    "key_bearish_phrases": [
+      "our financial results for the first quarter reflect the unprecedented long-term investment that we've made in our employees, in our customers, and also our communities",
+      "By mid-March, of course, and all of you know, the virus emerged into this global biological and economic crisis",
+      "our expectations around the impact of the COVID-19 pandemic on our business, results of operations and financial condition and that of our customers and partners are uncertain and subject to change"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic",
+      "global biological and economic crisis"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2021-06-15",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "we had a fantastic quarter, with revenue nearly $200 million above my guidance",
+      "Our back-office cloud application revenue is not only bigger than our nearest competitor but also growing more than twice as fast",
+      "OCI consumption revenue, which was up 103% in constant currency; Autonomous Database up 56%; and cloud customer revenues up 50%"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [
+      "FX headwinds"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "JPM",
+    "date": "2022-04-13",
+    "overall_sentiment": "neutral",
+    "sentiment_score": -0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we're continuing to see positive trends with loans up 8% year on year",
+      "NII ex markets was up 1 billion, or 9%, on balance sheet growth and higher rates",
+      "our current capital and future earnings profile position as well to continue supporting business growth"
+    ],
+    "key_bearish_phrases": [
+      "We've build 902 million in reserves, driven by increasing the probability of downside risks due to high inflation and the war in Ukraine",
+      "approximately $900 million of credit reserve builds, as well as $500 million of losses in credit adjustments",
+      "IB fees were down 31% year on year"
+    ],
+    "macro_concerns_mentioned": [
+      "high inflation",
+      "war in Ukraine",
+      "interest rates",
+      "market volatility",
+      "commodities price increases"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "V",
+    "date": "2022-04-26",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "Net revenues grew 25% year over year, and non-GAAP EPS was $1.79, up 30%",
+      "Overall, PV was up 135% versus three years ago",
+      "we still expect accelerated revenue growth versus pre-COVID over the coming years"
+    ],
+    "key_bearish_phrases": [
+      "our business will have a reset due to Russia",
+      "Even with the invasion of Ukraine and lingering impacts of Omicron",
+      "At this stage, in terms of volumes, we have seen no noticeable impact due to inflation, supply chain issues or the war in Ukraine"
+    ],
+    "macro_concerns_mentioned": [
+      "Russia-Ukraine war",
+      "Omicron",
+      "inflation",
+      "supply chain issues"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "WFC",
+    "date": "2020-07-14",
+    "overall_sentiment": "bearish",
+    "sentiment_score": -0.7,
+    "management_tone": "defensive",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we did have record revenues this quarter in our corporate and investment bank",
+      "our CET1 ratio increased to 10.9% from 10.7% last quarter and is well above our regulatory minimum of 9%",
+      "we will begin to take decisive actions, none of which will impact our risk and regulatory work, to increase our margins"
+    ],
+    "key_bearish_phrases": [
+      "I'm going to open the call by reviewing what is clearly a very poor quarter for us",
+      "Our view of the length and severity of the downturn deteriorated considerably from our assumptions at the end of the first quarter",
+      "We added $8.4 billion to the allowance for credit losses"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic",
+      "interest rates",
+      "economic downturn",
+      "credit losses",
+      "asset cap constraints"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "NFLX",
+    "date": "2022-01-20",
+    "overall_sentiment": "bearish",
+    "sentiment_score": -0.4,
+    "management_tone": "defensive",
+    "guidance_direction": "lowered",
+    "revenue_surprise_language": "missed",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we're quite pleased with how the quarter played out",
+      "overall, the business was healthy. Retention was strong. Churn was down. Viewing was up.",
+      "Very high confidence in that thesis because everyone's coming into streaming"
+    ],
+    "key_bearish_phrases": [
+      "acquisition just, you know, growing but a bit slower than pre-COVID levels, just hasn't fully recovered",
+      "we guided to 2.5 million paid net adds in Q1",
+      "It's tough to say exactly why our acquisition hasn't, you know, kind of recovered to pre-COVID levels"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID overhang",
+      "macroeconomic strain",
+      "competition"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "META",
+    "date": "2021-04-28",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "raised",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "This was another strong quarter. More than 2.7 billion people now use one or more of our apps each day, and more than 200 million businesses use our tools to reach customers.",
+      "over the past couple of quarters, our business has been performing better than we expected. And this has given us the confidence to increase our investments meaningfully",
+      "Quest 2 is doing better than we expected, even after the holiday season. We continue to see good engagement"
+    ],
+    "key_bearish_phrases": [
+      "There's still a long way to go here, and most of our investments to make this work are ahead of us.",
+      "we are very worried about the COVID situation in India and also in Brazil"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID situation in India",
+      "COVID situation in Brazil"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "GS",
+    "date": "2020-10-14",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "we produced net revenues of $10.8 billion, up 30% versus a year ago",
+      "record quarterly earnings of $9.68 per share, and return on equity of 17.5%",
+      "The strength and breadth of our client franchise continue to be evident this quarter"
+    ],
+    "key_bearish_phrases": [
+      "Litigation costs burdened our year-to-date returns by over 500 basis points",
+      "we continue to navigate an uncertain backdrop brought on by COVID-19, which has an unclear trajectory",
+      "permanent job losses have risen to nearly 4 million people reflecting some of the deeper challenges"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19",
+      "interest rates",
+      "unemployment",
+      "fiscal support",
+      "monetary policy"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2023-02-02",
+    "overall_sentiment": "neutral",
+    "sentiment_score": -0.1,
+    "management_tone": "cautious",
+    "guidance_direction": "lowered",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "From a product and technology perspective, we believe we are in the strongest position in our history.",
+      "our long-term growth opportunities remain unchanged",
+      "In fiscal Q1...we deliver revenues of $9.5 billion and non-GAAP earnings of $2.37 per share, including year-over-year growth in QCT Automotive in IoT"
+    ],
+    "key_bearish_phrases": [
+      "we are now expecting elevated channel inventory levels to persist at least through the first half of calendar '23",
+      "UCT revenues of $7.9 billion were down 11% year over year as a result of weaker handset demand and inventory drawdown",
+      "multiple end industries within IoT are also experiencing weaker-than-expected demand and elevated inventory levels"
+    ],
+    "macro_concerns_mentioned": [
+      "macroeconomic headwinds",
+      "weaker handset demand",
+      "elevated inventory levels",
+      "reduced demand"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2021-02-02",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "more than 500,000 people chose to take new jobs at Amazon in 2020",
+      "The square foot is growing about 50% year over year in 2020",
+      "We welcome nearly 175,000 new full and part-time employees in Q4 alone"
+    ],
+    "key_bearish_phrases": [
+      "The Q4 results include approximately $4 billion in COVID related operating costs",
+      "We continue to see productivity headwinds from physical separation and training of new employees",
+      "This key force spend brings our total COVID related costs for the year to more than $11.5 billion"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic",
+      "foreign exchange rates",
+      "global economic conditions"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "ticker": "CRM",
+    "date": "2021-02-25",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "raised",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we had such an incredible year and an incredible quarter, and you can see it in these incredible numbers",
+      "we're raising our fiscal year '22 guidance to $25.75 billion which is now at the high end of our range, representing 21% projected growth year over year",
+      "There's never been a software company over $20 billion in revenue that is growing as fast as we are"
+    ],
+    "key_bearish_phrases": [
+      "our expectations around the impact of the COVID-19 pandemic on our business acquisitions, results of operations and financial condition and that of our customers and partners are uncertain and subject to change",
+      "we're not really back to the way it was"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "AMD",
+    "date": "2021-04-27",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We delivered our sixth straight quarter of double-digit percentage year-over-year revenue growth and record quarterly revenue and profitability",
+      "First-quarter revenue increased 93% year over year to $3.45 billion, with growth in all of our businesses",
+      "our revenue is growing significantly faster than the market, particularly in the ultrathin, gaming, and commercial segments"
+    ],
+    "key_bearish_phrases": [
+      "Semi-custom revenue declined by a single-digit percentage sequentially"
+    ],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "ADBE",
+    "date": "2021-09-21",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "Adobe had another outstanding quarter, as people across the globe continue to embrace new ways of storytelling, learning and customer engagement in a digital-first environment",
+      "In Q3, we drove record performance in our Digital Media business, achieving $2.87 billion in revenue, representing 23% year-over-year growth",
+      "Net new Digital Media annualized recurring revenue or ARR was $455 million, and total Digital Media ARR exiting Q3 grew to $11.67 billion"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2022-10-25",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.3,
+    "management_tone": "cautious",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "the Microsoft Cloud again exceeded $25 billion in quarterly revenue, up 24% and 31% in constant currency",
+      "we expect our broader commercial business to grow at around 20% in constant currency this fiscal year",
+      "We now have more than 8,500 Arc customers, more than double the number a year ago"
+    ],
+    "key_bearish_phrases": [
+      "I want to outline the principles that are guiding us through these changing economic times",
+      "we will be disciplined in managing our cost structure",
+      "as we manage through the cyclical trends affecting our consumer business"
+    ],
+    "macro_concerns_mentioned": [
+      "economic uncertainty",
+      "FX headwinds",
+      "energy costs",
+      "supply chain constraints"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "BAC",
+    "date": "2022-07-18",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.25,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We delivered on our fourth straight quarter of operating leverage. We grew revenue 6%, while expense rose 1.5% for 4.5% of operating leverage",
+      "The organic growth engine at Bank of America that exist pre-pandemic is back in full place here",
+      "Our asset quality remains very strong with net charge-offs in the second quarter of 2021 still 50% below pre-pandemic levels"
+    ],
+    "key_bearish_phrases": [
+      "Overall revenue in global banking was impacted by the weaker investment banking fees that were available in this volatile market; lower investment banking fees",
+      "In a period of declining market values where stocks and bonds had the worst first half in five decades",
+      "we also had marks, as previously discussed, our leveraged finance positions"
+    ],
+    "macro_concerns_mentioned": [
+      "volatile capital markets",
+      "declining market values",
+      "weak investment banking environment"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "WFC",
+    "date": "2021-01-15",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "our customers continue to be in a much stronger position than we would have anticipated when this crisis began",
+      "Credit continues to perform well as both consumers and companies have benefited from accommodations, ongoing fiscal and monetary stimulus and an improving economic outlook",
+      "there is great potential in the second half of the year for a strong 2021, especially if there is another significant stimulus package"
+    ],
+    "key_bearish_phrases": [
+      "we continue to see an uneven recovery, and increases in COVID cases toward the end of the quarter is negatively impacting the path to recovery",
+      "we expect 2021 will get off to a slow start",
+      "the overall level and shape of the yield curve continued to be a significant drag on our net interest income"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID cases",
+      "unemployment levels",
+      "interest rates",
+      "economic recovery uncertainty"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "META",
+    "date": "2021-01-27",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Our community and business had a strong end of the year.",
+      "2.6 billion people now use one or more of our apps each day, and more than 200 million businesses, mostly small businesses, use our free tools to reach customers.",
+      "more than 600 million people are now members of a group on Facebook that they consider to be meaningful in their lives"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [
+      "COVID"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "ticker": "JPM",
+    "date": "2021-01-15",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "our customers and clients continue to demonstrate strong financial resilience in the face of an unprecedented pandemic as evidenced in our credit metrics thus far",
+      "We saw continued momentum in investment banking and grew our share to 9.2%",
+      "The firm reported net income of $29.1 billion, EPS of $8.88 on record revenue of nearly $123 billion"
+    ],
+    "key_bearish_phrases": [
+      "we remained cautious about the near term, especially with the number of unemployed still nearly two times pre-pandemic levels and potential payment shock coming to consumers from expiring benefits",
+      "with the near-term outlook still quite uncertain, we remain heavily weighted to our downside scenarios",
+      "Net interest income was down approximately $900 million, or 7%, primarily driven by lower rates"
+    ],
+    "macro_concerns_mentioned": [
+      "interest rates",
+      "unemployment",
+      "pandemic impacts",
+      "expiring benefits",
+      "loan growth muted"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2021-11-03",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "record fiscal fourth quarter non-GAAP revenues of $9.3 billion and record non-GAAP earnings per share of $2.55",
+      "this is our fifth consecutive quarter of greater than 100% year-over-year EBT growth in our chipset business",
+      "combined RF front-end, automotive and IoT fiscal '21 revenues exceeding $10 billion, an increase of 69% year over year"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "BAC",
+    "date": "2022-10-17",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We grew revenues 8% year over year. We delivered our fifth straight quarter of operating leverage. Every business segment delivered operating leverage.",
+      "Pretax, pre-provision income grew 10% year over year. From our term perspective, we produced a 15% ROTCE and a 90-basis-point ROE.",
+      "In the third quarter alone, we added more than 400,000-plus net new consumer checking accounts. We added 1.3 million new credit card accounts."
+    ],
+    "key_bearish_phrases": [
+      "The decline from prior-year reported net income and EPS comparisons reflect a reserve build versus reserve release from last year.",
+      "This occurred even as we fully reopened our financial centers and had our teammates also selling.",
+      "We saw solid net flows despite the turbulence in the markets."
+    ],
+    "macro_concerns_mentioned": [
+      "market turbulence",
+      "storm devastation"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "PYPL",
+    "date": "2021-02-03",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "I'm pleased to report that PayPal just completed the strongest year in our history, achieving record growth in net new active customers, volume, revenue, operating income, earnings and free cash flow.",
+      "For the year, we delivered a record 73 million net new actives, ending the year with 377 million active accounts, up 24%.",
+      "Our non-GAAP EPS grew a record 31% to $3.88, and our free cash flow increased by 48% of to $5 billion."
+    ],
+    "key_bearish_phrases": [
+      "eBay TPV grew at 1% and exited the year at just under 6% of our total volume."
+    ],
+    "macro_concerns_mentioned": [
+      "pandemic"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "TSLA",
+    "date": "2020-07-22",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.82,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we were able to achieve our fourth consecutive profitable quarter",
+      "despite that massive industry decline, we actually went up",
+      "Tesla Solar is the lowest-cost solar in the United States"
+    ],
+    "key_bearish_phrases": [
+      "there were so many challenges, too numerous to name",
+      "the automotive industry was down about 30% year over year in the first half of the year"
+    ],
+    "macro_concerns_mentioned": [
+      "automotive industry decline"
+    ],
+    "confidence": 0.93
+  },
+  {
+    "ticker": "ADBE",
+    "date": "2021-12-16",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Adobe had another outstanding year in 2021",
+      "I'm incredibly proud of the dedication and resilience of Adobe's 25,000 employees all around the world in delivering breakthrough technologies for our customers",
+      "Creative Cloud Express is the start of a brand new journey to introduce first time creators to Adobe creative tools, while adding significant value to all of our current Creative Cloud subscribers"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "MA",
+    "date": "2021-04-29",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.72,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We started the year with good momentum, delivering positive net revenue growth this quarter.",
+      "Domestic spending levels showed continued improvement with very strong e-commerce sales.",
+      "We believe there's significant pent-up demand for travel, as we've just seen in domestic travel."
+    ],
+    "key_bearish_phrases": [
+      "crossborder travel spending continues to be in the stabilization phase, where spending is restricted due to closed borders",
+      "crossborder travel remains limited as border restrictions remain in place for most markets.",
+      "progress is not always linear"
+    ],
+    "macro_concerns_mentioned": [
+      "border restrictions",
+      "vaccine rollout timing",
+      "pandemic impact on cross-border travel"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "WFC",
+    "date": "2022-04-14",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.25,
+    "management_tone": "cautious",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We have broad-based loan growth with both our consumer and commercial portfolios growing from the fourth quarter",
+      "Credit performance remained incredibly strong, and our net charge-off ratio declined to 14 basis points",
+      "we returned a significant amount of capital to our shareholders in the first quarter, including repurchasing $6 billion of common stock and increasing our common stock dividend to $0.25 per share"
+    ],
+    "key_bearish_phrases": [
+      "The mortgage origination market experienced one of its largest quarterly declines that I can remember and it will take time for the industry to reduce excess capacity",
+      "we're entering a period of uncertainty. March was the eighth straight month in which inflation outpaced income with lower-income consumers being most impacted by rising energy and food prices",
+      "We have much more work to do to satisfy our regulatory requirements, and we will likely have setbacks"
+    ],
+    "macro_concerns_mentioned": [
+      "inflation",
+      "interest rates",
+      "Russia or Ukraine conflict",
+      "economic sanctions",
+      "rising energy and food prices"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "GOOGL",
+    "date": "2019-04-29",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.3,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "total revenues of $36.3 billion were up 17% year-on-year and up 19% in constant currency, following a strong 2018",
+      "our results were driven by ongoing strength in mobile search along with important contributions from YouTube, followed by Cloud",
+      "APAC revenues were $6.1 billion, up 27% versus last year and up 31% in constant currency"
+    ],
+    "key_bearish_phrases": [
+      "Our total revenues of $36.3 billion reflect a negative currency impact year-over-year of $1.2 billion",
+      "Excluding the impact of the EC fine, operating income was $8.3 billion, up 9% versus last year for an operating margin of 23%",
+      "Our effective tax rate was 18.3% for the first quarter, reflecting a sizable impact from the non-deductibility of the EC fine"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds",
+      "weakening of the euro and the British pound",
+      "weakness of the Australian dollar and the Indian rupee",
+      "weakening of the Brazilian real and Argentine peso"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2021-07-27",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We had a very strong close to our fiscal year. Our commercial cloud surpassed $69 billion in annual revenue, up 34%.",
+      "In the past three years alone, gaming, security, and now LinkedIn, have all surpassed $10 billion in annual revenue.",
+      "We have seen revenue growth across industries, customer segments, and geographies with over 50% of sales coming from outside the United States."
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "META",
+    "date": "2022-04-27",
+    "overall_sentiment": "bearish",
+    "sentiment_score": -0.4,
+    "management_tone": "defensive",
+    "guidance_direction": "lowered",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "More people use our services today than ever before",
+      "I am confident that we can return to better revenue growth rates over time and sustain high operating margins",
+      "Reels already makes up more than 20% of the time that people spend on Instagram"
+    ],
+    "key_bearish_phrases": [
+      "signal loss resulting from Apple's iOS changes, which is a meaningful headwind",
+      "we're now seeing that trend back off",
+      "Unfortunately, that's not going to happen in 2022, given the revenue headwinds"
+    ],
+    "macro_concerns_mentioned": [
+      "war in Ukraine",
+      "softness in e-commerce",
+      "macroeconomic uncertainty",
+      "Russia sanctions"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "BAC",
+    "date": "2021-07-14",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we're seeing credit quality levels that are very strong. Net charge-offs fell to 25-year low as a percentage of loans",
+      "the total BAC consumer small business payments set a fourth quarterly consecutive record, reaching $976 billion, up 41% year over year and 23% over '19",
+      "consumer spending from our own BAC customers, which is not only much higher than the same periods in 2020, which you would expect, but is notably 22% higher than the first half of '21 compared to 2019"
+    ],
+    "key_bearish_phrases": [
+      "did slow a bit toward the end of the quarter"
+    ],
+    "macro_concerns_mentioned": [
+      "healthcare crisis",
+      "pandemic recovery",
+      "unemployment rate"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2022-10-27",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Prime members purchased more than 300 million items worldwide, making it the biggest Prime Day net sales event in Amazon's history",
+      "Third-party sellers and the products they offer remain an important strength of our offering for consumers, representing 58% of total paid units sold in Q3, the highest percentage ever",
+      "advertising offerings where sales grew 30% year over year"
+    ],
+    "key_bearish_phrases": [
+      "This represents a headwind of approximately $900 million, more than we initially guided to",
+      "Our results are inherently unpredictable and may be materially affected by many factors, including uncertainty regarding the impacts of the COVID-19 pandemic, fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions",
+      "the impact of recessionary fears, inflation, interest rates, regional labor market, and global supply chain constraints"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds",
+      "inflation",
+      "interest rates",
+      "recessionary fears",
+      "supply chain constraints",
+      "labor market"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "ticker": "INTC",
+    "date": "2022-07-28",
+    "overall_sentiment": "bearish",
+    "sentiment_score": -0.4,
+    "management_tone": "defensive",
+    "guidance_direction": "lowered",
+    "revenue_surprise_language": "missed",
+    "eps_surprise_language": "missed",
+    "key_bullish_phrases": [
+      "We are well into the ramp of Intel 7, now shipping in excess of 35 million units. Intel 4 is ready for volume production in second half of this year, and Intel 3, 20A and 18A are all at or ahead of schedule.",
+      "we announced MediaTek as our next major foundry customer, a great example of our One Intel culture",
+      "we remain firmly on track to achieve process performance parity in 2024 and unquestioned leadership in 2025"
+    ],
+    "key_bearish_phrases": [
+      "Q2 results were disappointing, below the standards we have set for the company and below the commitments we have made to you, our shareholders.",
+      "The sudden and rapid decline in economic activity was the largest driver of the shortfall, but Q2 also reflected our own execution issues in areas like product design, DCAI and the ramp of AXG offerings.",
+      "We are planning for volatility as the world adjusts to the end of a two-plus year pandemic and the unprecedented stimulus governments used to fight it."
+    ],
+    "macro_concerns_mentioned": [
+      "economic activity decline",
+      "supply chain issues",
+      "inventory levels above normal",
+      "pandemic aftermath",
+      "semiconductor industry slowdown"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "NFLX",
+    "date": "2021-04-20",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.1,
+    "management_tone": "hedging",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "the business remains healthy, our engagement or viewing per household is -- was up year over year in Q1. Our churn was down year over year and the business is still growing",
+      "the long-term drivers this big transition from linear to streaming entertainment, and that remains as -- as healthy as ever",
+      "we've grown from two years ago to about 150 million members to almost 210 million now. So that's nearly 40% growth"
+    ],
+    "key_bearish_phrases": [
+      "The net adds this quarter came in below your expectations and below the Street's expectations",
+      "it's just a little wobbly right now",
+      "it's -- it's super hard to -- to obviously kind of forecast quarterly subscribers in -- in a typical quarter for us and -- and particularly hard in this -- in this environment"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID",
+      "production shutdown",
+      "competition"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "AMD",
+    "date": "2022-08-02",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "This was an excellent quarter for our business as we delivered record revenue and profitability based on our strong execution, leadership product portfolio and diversified business model",
+      "Revenue grew 70% year over year to a record $6.6 billion. We also expanded gross margin six percentage points year over year to 54% and set records for operating and net income, both of which more than doubled from the prior year",
+      "customer pull for our next-generation 5-nanometer generalist server CPU is very strong. We are on track to launch and ramp production of Genoa as the industry's highest performance general-purpose server CPU later this year"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "AAPL",
+    "date": "2020-07-30",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "In an uncertain environment, Apple saw a quarter of historic results, demonstrating the important role our products play in our customers' lives. We set a June quarter record with revenue of $59.7 billion, up 11% from a year ago.",
+      "We saw very strong double-digit growth for these devices this quarter.",
+      "Services generated a June quarter record of $13.2 billion, up 15% year over year."
+    ],
+    "key_bearish_phrases": [
+      "Due to the uncertain and ongoing impacts of COVID-19, we did not provide our typical guidance when we reported our results last quarter",
+      "This remarkable performance came in spite of supply constraints on both products.",
+      "results for advertising and AppleCare were impacted by the reduced level of economic activity and store closures"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19",
+      "economic activity",
+      "supply constraints"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "BAC",
+    "date": "2021-10-14",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.78,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "the pre-pandemic organic growth machine has kicked back in",
+      "We've now earned over $25 billion for the first nine months of the year",
+      "Year over year, our revenues are up 12%, and the expenses were flat"
+    ],
+    "key_bearish_phrases": [
+      "the U.S. still has issues around labor supply and supply chains of materials",
+      "modest slowdown from the surge in cases caused by the Delta variant"
+    ],
+    "macro_concerns_mentioned": [
+      "labor supply",
+      "supply chains",
+      "Delta variant"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "ADBE",
+    "date": "2019-09-17",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "Q3 was a record quarter for Adobe, with strong revenue and continued growth across our entire business",
+      "We delivered $2.83 billion in revenue in Q3, representing 24% year-over-year growth",
+      "Net new Digital Media Annualized Recurring Revenue or ARR was $386 million, and total Digital Media ARR exiting Q3 grew to $7.86 billion"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "CRM",
+    "date": "2019-12-03",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "raised",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "I'm thrilled to share that our Q3 results were outstanding. Revenue rose to $4.5 billion, up 34% in constant currency.",
+      "we are also intending to double the company by fiscal year '24 with a revenue target of $34 billion to $35 billion, making us the fastest enterprise software company to reach that milestone",
+      "for the sixth year in a row, Salesforce is the number one CRM provider by market share according to the latest IDC worldwide semiannual software tracker"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "NFLX",
+    "date": "2022-04-19",
+    "overall_sentiment": "bearish",
+    "sentiment_score": -0.7,
+    "management_tone": "defensive",
+    "guidance_direction": "lowered",
+    "revenue_surprise_language": "missed",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "internally, we're really geared up, and this is like our moment to shine",
+      "The long-term addressable market, we believe, is unchanged in terms of all broadband households",
+      "we have over 100 million households that already are choosing to view Netflix. They love the service"
+    ],
+    "key_bearish_phrases": [
+      "I know it's disappointing for investors, and it is for sure",
+      "lower acquisition really forced us to kind of tease apart what's going on",
+      "we're getting pretty high market penetration. And that, combined with the competition, is really what we think is driving the lower acquisition and lower growth"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID impact",
+      "Russia invasion of Ukraine",
+      "macro strain in Latin America",
+      "competition"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2021-03-10",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.78,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "in-line",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "EPS beat the midpoint of guidance by $0.05",
+      "operating margin was 47% in USD, up 300 basis points from 44% last year and our best Q3 result in more than 10 years",
+      "OCI consumption revenue, which was up 123%. Autonomous Database was up 55%. Cloud customer consumption revenue was up over 200%"
+    ],
+    "key_bearish_phrases": [
+      "short-term deferred revenue balance was down in constant currency at $8.1 billion",
+      "License revenues were $1.3 billion, up 4% in U.S. dollars and unchanged in constant currency"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2021-04-28",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "raised",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "Our fiscal second-quarter non-GAAP earnings of $1.90 per share exceeded the high end of our guidance driven by higher licensing revenues and solid performance in our chipset business, representing non-GAAP revenue and EPS year-over-year growth of 52% and 116%, respectively.",
+      "Even this fiscal year with all the unusual challenges, we are on track to deliver results better than what we expected when we started the fiscal year.",
+      "Several years ago, we put in place a strategy to lead in 5G, which today is delivering results beyond our expectations."
+    ],
+    "key_bearish_phrases": [
+      "I want to acknowledge our employees, customers, and partners in India. You and your families are in our thoughts, and we are here to support you through this very challenging time.",
+      "Despite the backdrop of a challenging environment",
+      "Even this fiscal year with all the unusual challenges"
+    ],
+    "macro_concerns_mentioned": [
+      "pandemic",
+      "challenging environment in India"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "PYPL",
+    "date": "2022-02-01",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.1,
+    "management_tone": "cautious",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "in-line",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "2021 was one of the strongest years in PayPal's history. Our revenues grew by 18% to $25.4 billion, and our non-GAAP EPS grew 19% to $4.60.",
+      "We surpassed $1 trillion in annual TPV for the first time in our history, ending the year with $1.25 trillion of total payment volume.",
+      "Ex eBay, our revenue growth was very strong, growing 29% on a spot basis for the full year and 22% in Q4."
+    ],
+    "key_bearish_phrases": [
+      "2021 was also a difficult year. It was a particularly hard year to forecast.",
+      "eBay's migration to managed payments happened faster than we anticipated. Overall, eBay put $1.4 billion of pressure on our top line, reducing our revenue growth by 700 basis points.",
+      "2022 is going to be a year of transformation and investment as we transition from outsized growth driven by lockdowns during the pandemic and finalize the lapping of eBay's managed payments transition."
+    ],
+    "macro_concerns_mentioned": [
+      "supply chain issues",
+      "inflationary pressures",
+      "COVID variants",
+      "elimination of government stimulus"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2021-10-26",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We're off to a fast start in fiscal 2022 with Microsoft Cloud quarterly revenue surpassing $20 billion for the first time, up 36% year over year",
+      "Digital technology is a deflationary force in an inflationary economy",
+      "Seventy-eight percent of the Fortune 500 use our hybrid offerings"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [
+      "inflationary economy"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "V",
+    "date": "2021-01-28",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Visa delivered strong financial results in our fiscal first quarter",
+      "Payments volume, processed transactions and cross-border volume all improved from Q4",
+      "We continued to win and renew business as we transfer money movement globally through consumer payments, new flows and value-added services"
+    ],
+    "key_bearish_phrases": [
+      "Net revenues in the fiscal first quarter were $5.7 billion, a year over year decrease of 6%",
+      "Non-GAAP EPS was $1.42, a decrease of 3%",
+      "COVID-19 infections really continue to rise, causing restrictions to be implemented in many parts of the world"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic",
+      "travel restrictions",
+      "weak credit and card presence"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "JPM",
+    "date": "2022-01-14",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we have started to see a pickup in loan growth, 8% year on year and 3% quarter on quarter",
+      "it was an exceptionally strong quarter for investment banking, particularly M&A",
+      "The firm reported net income of $48.3 billion, EPS of $15.36 and record revenue of $125.3 billion"
+    ],
+    "key_bearish_phrases": [
+      "we have seen some softening in recent weeks contemporaneously with the Omicron wave",
+      "our reserve balances still account for various sources of uncertainty and potential downside as a result of the remaining abnormal features of the economic environment",
+      "the lack of vehicle supply resulted in a decline in originations to $8.5 billion, down 23% year on year"
+    ],
+    "macro_concerns_mentioned": [
+      "Omicron wave",
+      "vehicle supply constraints",
+      "economic uncertainty"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "GOOGL",
+    "date": "2021-04-27",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Q1 revenue grew 46% year-over-year, with GCP's revenue growth rate, once again, meaningfully above Cloud overall",
+      "YouTube Shorts continues to gain popularity with over 6.5 billion daily views as of March, up from 3.5 billion at the end of 2020",
+      "data suggests that investment in start-ups is at an all-time high"
+    ],
+    "key_bearish_phrases": [
+      "recovery is far from uniform across the globe as the tragic scenes in countries like India and Brazil remind us"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic",
+      "uneven global recovery"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "MA",
+    "date": "2021-01-28",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.35,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Fourth-quarter revenue and EPS growth rates versus a year ago are continuing to show sequential improvement",
+      "our switched volume growth rates, excluding travel and entertainment, were similar to what we saw in Q4 2019 pre-pandemic",
+      "we believe there is significant pent-up demand for travel"
+    ],
+    "key_bearish_phrases": [
+      "overall Europe retail sales slowed with a decline of 1.9% for the quarter, in part due to the recent lockdowns",
+      "Domestic travel, including spending in categories such as lodging and restaurants, declined slightly in the quarter, reversing some of the improvement we saw in the summer months",
+      "Cross-border travel remains limited"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19 pandemic",
+      "lockdowns",
+      "border restrictions",
+      "travel restrictions"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2021-02-24",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Q4 was another record quarter with revenue exceeding $5 billion and year-on-year growth accelerating to 61%",
+      "Demand is incredible for our new GeForce RTX 30 Series products based on the NVIDIA Ampere GPU architecture",
+      "Our Gaming business reached record revenue of $2.5 billion in Q4, up 10% sequentially and up 67% from a year earlier"
+    ],
+    "key_bearish_phrases": [
+      "channel inventories will likely remain low throughout Q1",
+      "With rising Ethereum prices, there are indications that miners are behind GPUs",
+      "we don't have the ability to accurately track or quantify their end-use"
+    ],
+    "macro_concerns_mentioned": [
+      "cryptocurrency mining demand",
+      "supply constraints"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2022-05-25",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "lowered",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We delivered a strong quarter driven by record revenue in both Data Center and Gaming with strong fundamentals and execution",
+      "Data Center has become our largest market platform, and we see continued strong momentum going forward",
+      "RTX has brought tremendous energy into the gaming world, and has helped drive a sustained expansion in our higher-end platforms and installed base with significant runway still ahead"
+    ],
+    "key_bearish_phrases": [
+      "we started seeing softness in parts of Europe related to the war in the Ukraine and parts of China due to the COVID lockdowns",
+      "we are projecting Gaming revenue to decline sequentially in Q2",
+      "We expect a diminishing contribution going forward"
+    ],
+    "macro_concerns_mentioned": [
+      "war in Ukraine",
+      "COVID lockdowns in China",
+      "challenging macro backdrop",
+      "cryptocurrency mining headwinds"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "JPM",
+    "date": "2021-04-14",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "the firm reported net income of $14.3 billion, EPS of $4.50 on revenue of 33.1 billion, and delivered a return on tangible common equity of 29%",
+      "recent economic data has been consistently positive, indicating that the recovery may be accelerating faster than we would have thought just a few months ago",
+      "we saw another strong quarter in CIB. In fact, net income was an all-time record with IV fees up 57% year on year"
+    ],
+    "key_bearish_phrases": [
+      "we're also prepared for more adverse outcomes given remaining uncertainties around the impact of new virus strains and the health of the underlying labor markets",
+      "loan growth remains muted, up 1% year on year",
+      "Net interest income was down 1.6 billion or 11%, primarily driven by lower rates"
+    ],
+    "macro_concerns_mentioned": [
+      "interest rates",
+      "virus strains",
+      "labor markets",
+      "SLR constraint",
+      "QE impact on leverage"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2022-04-27",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "we delivered record revenues of $11.2 billion and non-GAAP earnings of $3.21 per share, representing year-over-year growth of 41% and 69%, respectively, both exceeding the high end of our guidance",
+      "Our automotive design win pipeline is now over $16 billion, up more than $3 billion since fiscal Q1",
+      "IoT revenues grew 61% year over year with strong growth across all three categories of consumer, edge networking and industrial"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "PYPL",
+    "date": "2020-01-29",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.82,
+    "management_tone": "confident",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "I'm pleased to report that PayPal had a strong quarter, ending 2019 with record results across key customer and financial metrics",
+      "Our strong revenue growth, combined with disciplined expense management, enabled a 28% year-over-year increase in our non-GAAP earnings per share to $3.10",
+      "Excluding eBay, TPV grew 29% on an FX-neutral basis to $649 billion as we continue to grow market share"
+    ],
+    "key_bearish_phrases": [
+      "eBay's TPV continues to decline, shrinking by 4% on an FX-neutral basis",
+      "we anticipate that eBay will be approximately 6% of our total TPV by midyear"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "WFC",
+    "date": "2021-04-14",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.72,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "U.S. GDP growth is on track to surpass its pre-pandemic peak by the end of the summer and is expected to increase in 2021 by more than any year since 1984",
+      "For our customers who received federal stimulus payments, their median deposit balance was up 80% from a year ago. And for all of our customers, including customers who did not receive stimulus payments, median balances were up 62% from a year ago",
+      "Credit quality continued to outperform our expectations with charge-offs at historical lows"
+    ],
+    "key_bearish_phrases": [
+      "low interest rates and tepid loan demand remained headwinds for us during the quarter",
+      "we continue to manage within the constraints of our asset cap, which require us to anticipate the inflows from government stimulus",
+      "there's still many that will continue to need help as not all have benefited equally during the recovery"
+    ],
+    "macro_concerns_mentioned": [
+      "interest rates",
+      "loan demand",
+      "asset cap constraints",
+      "government stimulus impact",
+      "unequal recovery"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2022-06-13",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.82,
+    "management_tone": "confident",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "we had an excellent quarter across the board with total revenue growing 10% in constant currency, the highest organic growth we've seen since 2011",
+      "What Q4 demonstrates is that our business is accelerating",
+      "we continue to expect the revenue growth in our cloud business will accelerate substantially in fiscal year '23"
+    ],
+    "key_bearish_phrases": [
+      "the currency headwind this past quarter was 5%, which was considerably higher than the 2% to 3%, it was during our last earnings call",
+      "despite the macro environment"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds",
+      "macro environment"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2022-07-26",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "the Microsoft Cloud surpassed $25 billion in quarterly revenue for the first time, up 28% and 33% in constant currency",
+      "won a record number of $100 million-plus and $1 billion-plus deals this quarter",
+      "Transactions in data volume increased over 100% year over year for the fourth quarter in a row"
+    ],
+    "key_bearish_phrases": [
+      "Amid this macroeconomic environment",
+      "use digital technology to overcome today's challenges",
+      "we will manage through this period with an intense focus on prioritization"
+    ],
+    "macro_concerns_mentioned": [
+      "macroeconomic environment",
+      "FX headwinds"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2023-01-24",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "the Microsoft Cloud exceeded $27 billion in quarterly revenue, up 22% and 29% in constant currency",
+      "we're going to lead in the AI era, knowing that maximum enterprise value gets created during platform shifts",
+      "The age of AI is upon us and Microsoft is powering it"
+    ],
+    "key_bearish_phrases": [
+      "we are now seeing them optimize that spend",
+      "organizations are exercising caution given the macroeconomic uncertainty",
+      "aligning our own cost structure with our revenue growth"
+    ],
+    "macro_concerns_mentioned": [
+      "macroeconomic uncertainty",
+      "demand uncertainty",
+      "energy costs"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "ticker": "MA",
+    "date": "2022-01-27",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "We delivered strong revenue and earnings growth as we saw further improvement in our underlying operating metrics. Quarter 4 net revenues were up 28% and EPS up 46% versus a year ago",
+      "Quarter 4 net revenues are 19% above pre-COVID levels in 2019",
+      "overall Quarter 4 cross-border levels now higher than those in 2019"
+    ],
+    "key_bearish_phrases": [
+      "recent supply chain constraints, geopolitical uncertainties and inflationary pressures",
+      "While Omicron has had some recent impact on cross-border travel",
+      "some near-term travel-related headwinds as a result of the variant"
+    ],
+    "macro_concerns_mentioned": [
+      "supply chain constraints",
+      "geopolitical uncertainties",
+      "inflationary pressures",
+      "Omicron variant",
+      "mobility restrictions"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "AMD",
+    "date": "2021-01-26",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Annual revenue grew 45%, setting a new record at $9.76 billion",
+      "Revenue grew 53% year over year to a record $3.24 billion, while net income increased 66%",
+      "Server processor sales more than doubled year over year"
+    ],
+    "key_bearish_phrases": [
+      "In graphics, revenue declined year over year",
+      "Data center GPU revenue decreased year over year"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "TSLA",
+    "date": "2021-04-26",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "Q1 2021 was a record quarter on many levels. Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.",
+      "our demand is the best we've ever seen",
+      "I'd say more likely than not, that in 2022, Model Y is the best-selling car or truck of any kind in the world."
+    ],
+    "key_bearish_phrases": [
+      "Q1 was -- had some of the most difficult supply chain challenges that we've ever experienced in the life of Tesla",
+      "people have heard about the chip shortage. This is a huge problem.",
+      "there were more challenges than expected in developing the Model S"
+    ],
+    "macro_concerns_mentioned": [
+      "chip shortage",
+      "supply chain challenges",
+      "COVID quarantine restrictions"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "PYPL",
+    "date": "2021-07-28",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.82,
+    "management_tone": "confident",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "our Q2 results once again reflect some of the best performance in our history on both an absolute and a relative basis",
+      "we hit a new milestone in Q2 surpassing $300 billion of TPV for the first time in our history, growing 40% on a spot basis",
+      "Excluding eBay, our volumes grew by a remarkable 48% on a spot basis"
+    ],
+    "key_bearish_phrases": [
+      "eBay's TPV on our platform declined by 37%",
+      "this accelerated ramp puts an additional 100 basis points of revenue pressure in 2021",
+      "absorbed 811 basis points of revenue pressure from eBay"
+    ],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "V",
+    "date": "2022-01-27",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.82,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "Our net revenues grew 24% year over year. Non-GAAP EPS was $1.81, up 27%.",
+      "As we look ahead, we expect accelerated revenue growth versus pre-COVID over the coming years, driven by our three strategic levers of consumer payments, new flows, and value-added services.",
+      "In Q1, we crossed the $60 billion payment transaction mark for the first time in history, up 26% from two years ago."
+    ],
+    "key_bearish_phrases": [
+      "Amidst much uncertainty this quarter resulting from the ongoing COVID pandemic"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID pandemic"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "PYPL",
+    "date": "2021-05-05",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "raised",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "on the heels of the strongest year in PayPal's history, we just completed our strongest quarter ever with record financial and operating results",
+      "I'm pleased to share that we are raising our annual targets for revenue, EPS, TPV, and net new active accounts",
+      "we delivered non-GAAP EPS in Q1 of $1.22, up 84%"
+    ],
+    "key_bearish_phrases": [
+      "eBay revenues declined 12%, and we expect they will substantially complete their migration to manage payments by year end",
+      "eBay now represents 5.5% of our volume, and we expect their TPV to be approximately 3% of total volumes by year end"
+    ],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2022-02-16",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We had an excellent quarter with revenue up 53% year on year to $7.6 billion. We set records for total revenue, as well as for Gaming, Data Center, and Professional Visualization.",
+      "Full-year revenue was a record $26.9 billion, up 61%, compounding the prior year's growth of 53%.",
+      "Gaming has become the top entertainment medium that continues to show strong momentum. Just last month, Steam hit a record 28 million concurrent users, up 50% in two years."
+    ],
+    "key_bearish_phrases": [
+      "Availability of our gaming products in the channel remains low.",
+      "Our GPUs are capable of cryptocurrency mining, so we have limited visibility into how much of this impacts our overall GPU demand.",
+      "Cryptomining processor revenue was $24 million, which is included in OEM and other."
+    ],
+    "macro_concerns_mentioned": [
+      "cryptocurrency mining demand visibility"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "NFLX",
+    "date": "2021-01-19",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.3,
+    "management_tone": "cautious",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "2020, which was, by far, a record year with 37 million paid net adds",
+      "the long-term growth trajectory is at least as strong as ever",
+      "viewing is up in every region of the world"
+    ],
+    "key_bearish_phrases": [
+      "there's probably still a little bit of that pull-forward dynamic in the early parts of 2021",
+      "this is one of the more uniquely challenging times...it's more uncertain than we've ever seen",
+      "it's hard enough to project the next 90 days, let alone the next 12 months"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID pull-forward effects",
+      "forecasting uncertainty"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "ticker": "PYPL",
+    "date": "2022-08-02",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.25,
+    "management_tone": "cautious",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "in-line",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "we met or exceeded our expectations announced in April, marking the second quarter in a row of hitting our non-GAAP guidance",
+      "our preliminary revenue growth rate in July further accelerated to north of 14%",
+      "we will realize our target of approximately $900 million of savings in 2022 across our opex and transaction expenses"
+    ],
+    "key_bearish_phrases": [
+      "We are well underway in a deep transformation of our business to regain our momentum",
+      "eBay payment intermediation was a 400-basis-points drag on revenue growth in the quarter",
+      "Our strategy shift to focus on customer engagement from our unparalleled network of consumer and merchant accounts led to significant opportunity for greater efficiency"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2021-04-27",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "It was a record quarter powered by our continued strength of our commercial cloud.",
+      "digital adoption curves aren't slowing down. In fact, they're accelerating and it's just the beginning.",
+      "Queries performed using Synapse have increased 105% over the last quarter alone."
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2021-02-03",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "record first-quarter non-GAAP revenues of $8.2 billion, up 63% year over year, and record non-GAAP earnings of $2.17 per share, more than doubling from the prior year",
+      "our strong performance and outlook would have been even stronger had we not been supply constrained",
+      "Our RF adjacency demonstrated continued growth with quarterly revenues more than doubling year over year and crossing the $1 billion threshold, a significant milestone"
+    ],
+    "key_bearish_phrases": [
+      "our strong performance and outlook would have been even stronger had we not been supply constrained",
+      "in spite of supply constraints and the continued impact of the pandemic"
+    ],
+    "macro_concerns_mentioned": [
+      "supply constraints",
+      "pandemic impact"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "JPM",
+    "date": "2022-07-14",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.1,
+    "management_tone": "cautious",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We had another quarter of strong performance in markets, which generated revenue of nearly $8 billion",
+      "Credit is still quite healthy, and net charge-offs remain historically low",
+      "there continue to be positive trends in loan growth across our businesses, with average loans up 7% year on year"
+    ],
+    "key_bearish_phrases": [
+      "we have paused buybacks for the near term",
+      "reserve builds of $428 million, reflecting loan growth as well as a modest deterioration in the economic outlook",
+      "median deposit balances are down across income segments for the first time since the pandemic started"
+    ],
+    "macro_concerns_mentioned": [
+      "interest rates",
+      "inflation",
+      "economic outlook deterioration",
+      "capital requirements",
+      "vehicle supply constraints"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "WFC",
+    "date": "2022-07-15",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We had broad-based loan growth with both our consumer and commercial portfolios growing from the first quarter and a year ago.",
+      "Credit card spend increased 28% from a year ago, above the industry trend driven by the new products we launched last year",
+      "Our commercial customers' credit performance remained strong with exceptionally low net charge-offs, and nonaccrual loans were at their lowest level in over 10 years."
+    ],
+    "key_bearish_phrases": [
+      "Revenue declined as growth in net interest income driven by rising interest rates and higher loan balances was more than offset by lower noninterest income as market conditions negatively impacted our venture capital, mortgage banking, investment banking, and wealth management advisory businesses.",
+      "Our results included a $576 million impairment of equity securities, predominantly in our venture capital business due to market conditions.",
+      "we're monitoring risks related to continued high inflation, increasing interest rates, and the slowing economy, which will impact our customers"
+    ],
+    "macro_concerns_mentioned": [
+      "inflation",
+      "interest rates",
+      "slowing economy",
+      "market conditions"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "MA",
+    "date": "2021-07-29",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.82,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "The strong momentum we started the year with accelerated this quarter, with net revenue up 31% and EPS up 37% versus a year ago",
+      "quarter 2 net revenues are now 10% over 2019 levels even though international travel is in the early stages of recovery, which is showing the strength of our diversified revenue streams",
+      "Domestic switched volumes are well above pre-pandemic levels with all the regions growing in a healthy rate"
+    ],
+    "key_bearish_phrases": [
+      "depending, of course, on infection rates, including the recent variants and progress on the vaccination front",
+      "international travel is in the early stages of recovery",
+      "Broadening this effort is critical and will of course take time"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID variants",
+      "vaccination progress",
+      "border restrictions"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2022-04-28",
+    "overall_sentiment": "bearish",
+    "sentiment_score": -0.4,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Our compound annual growth since before the pandemic stands at 25%, a growth rate higher than what we were seeing before the pandemic",
+      "Delivery speed performance is now approaching levels not seen since the month immediately preceding the pandemic in early 2020",
+      "We also added millions more new Prime members during the quarter"
+    ],
+    "key_bearish_phrases": [
+      "these inflationary pressures have added approximately $2 billion of incremental costs when compared to last year",
+      "we expect they will be around for some time",
+      "We continue to face a variety of cost pressures in our consumer business"
+    ],
+    "macro_concerns_mentioned": [
+      "inflation",
+      "labor shortages",
+      "supply chain constraints",
+      "fuel prices",
+      "Ukraine war",
+      "COVID-19 pandemic",
+      "Omicron variant",
+      "shipping rates"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "BAC",
+    "date": "2021-04-15",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we have emerged as an even stronger company and competitor than what we were when we entered the healthcare crisis",
+      "EPS in the first quarter of $0.86 per share, and a return on tangible common equity of 17%",
+      "March was a record month of spending by Bank of America consumers and led to the highest ever quarter of consumer spending"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [
+      "interest rates"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "V",
+    "date": "2021-10-26",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "In doing so, we demonstrated the resiliency of our business and validated our growth strategy as we continue to drive the rapid growth of digital payments",
+      "this quarter, we also set a record with total global payments volume of $2.8 trillion",
+      "Visa is even better positioned for growth than before the pandemic"
+    ],
+    "key_bearish_phrases": [
+      "against the backdrop of economic uncertainty and the lingering impacts of the COVID pandemic",
+      "Cross-border volume, excluding intra-Europe, was 86% of 2019"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID pandemic",
+      "economic uncertainty"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "AAPL",
+    "date": "2020-04-30",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "withdrawn",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Today Apple reports $58.3 billion in revenue, an all-time record for services and a quarterly record for Wearables, Home and Accessories",
+      "we are proud to say that Apple grew during the quarter",
+      "new iPad Pro, Magic Keyboard, MacBook Air and the new iPhone SE, all of which have been very well received by reviewers and consumers alike"
+    ],
+    "key_bearish_phrases": [
+      "Amid the most challenging global environment in which we've ever operated our business",
+      "This is something Apple has been contending with since January",
+      "when the pandemic did strike"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19",
+      "pandemic",
+      "financial hardship for many families"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "ticker": "JPM",
+    "date": "2021-10-13",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "It was another strong quarter for investment banking, including an all-time record for M&A",
+      "we see a number of indicators to suggest it has stabilized and may be poised to begin more robust growth across the company and particularly in card",
+      "credit continues to be quite healthy. In fact, net charge-offs are the lowest we've experienced in recent history"
+    ],
+    "key_bearish_phrases": [
+      "loan growth remains muted",
+      "Reserves stand at $20.5 billion, which still accounts for elevated uncertainties surrounding COVID and the current labor market dynamics",
+      "we expect it to take some time for revolving credit card balances to return to pre-pandemic levels given the amount of liquidity in the system"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID",
+      "labor market dynamics",
+      "expiration of expanded unemployment benefits",
+      "Delta variant"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "NFLX",
+    "date": "2021-07-20",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.25,
+    "management_tone": "cautious",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Our churn is actually down relative to the more comparable two-year-ago period in 2019, Q2 of '19 before COVID. Our viewing and we've talked about in the letter, our engagement is up nearly 20% over that period.",
+      "the underlying business metrics are really healthy",
+      "we'll have added 54 million new members over that two-year period or on average, 27 million a year, which is right in line with our past few years of growth in 2018 and '19"
+    ],
+    "key_bearish_phrases": [
+      "there's still a bit of choppiness to our growth. We had the kind of big pull forward in 2020 of subscriber adds.",
+      "we still feel a little bit of that drag in terms of our acquisition growth as we're kind of working through what we hope is we can't be sure but what we hope is the tail end of this COVID choppiness",
+      "on the margin, acquisition is impacted"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID impact on production and subscriber acquisition",
+      "market reopenings",
+      "Olympics"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "AAPL",
+    "date": "2020-01-28",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We're thrilled to report Apple's biggest quarter ever, which set new all-time records in both revenue and earnings",
+      "We generated revenue of $91.8 billion, which is above the high end of our guidance range, with revenue growth accelerating for the third consecutive quarter",
+      "Our active installed base of devices has now surpassed 1.5 billion, up over 100 million in the last 12 months alone"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "BAC",
+    "date": "2021-01-19",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we generated a net income of nearly $18 billion, or $1.87 EPS, and earned a return above our cost of capital",
+      "Our full-year revenue of $15 billion from sales and trading rose 17% and we generated more than $7 billion of investment banking revenues this year. An increase of 27% over last year",
+      "we'll once again begin repurchasing shares starting today"
+    ],
+    "key_bearish_phrases": [
+      "2020 was a tough operating environment",
+      "Our EPS was down 32% compared to 2019, driven by the impacts of the coronavirus pandemic on the company and economy",
+      "Provision was higher as a result of reserves built, given the macroeconomic deterioration experienced in the first part of the year"
+    ],
+    "macro_concerns_mentioned": [
+      "interest rates",
+      "coronavirus pandemic",
+      "loan demand"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "V",
+    "date": "2020-04-30",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.1,
+    "management_tone": "cautious",
+    "guidance_direction": "withdrawn",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "I want to be absolutely clear that nothing has changed about these opportunities in terms of the medium and long-term growth for the company.",
+      "We remain committed to investing in the future, in product development, in technology, our brand and business development.",
+      "our network infrastructure and application performance has been unaffected even as we transitioned the vast majority of our employees to a work-from-home status"
+    ],
+    "key_bearish_phrases": [
+      "A year that looks quite promising after a solid first quarter has been substantially disrupted by COVID-19.",
+      "the business has been negatively impacted in March and April",
+      "we are certainly being quite careful about our spending on our expense base and we are pulling back on discretionary spending"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-19",
+      "cross-border volumes weakening"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "INTC",
+    "date": "2020-10-22",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "We exceeded our top-line expectation by $133 million and our bottom-line expectation by $0.01",
+      "This is the world's best processor for thin and light notebooks. In real-world workloads versus competitive products, Tiger Lake delivers up to 2.7 times faster content creation, 20% faster office productivity and more than two times faster gaming",
+      "I'm excited to announce that we now expect 100 Tiger Lake-based designs in the market by the end of this year double the expectation we provided in April"
+    ],
+    "key_bearish_phrases": [
+      "We delivered solid third-quarter revenue and profitability despite increasing COVID-driven headwinds affecting significant portions of our business",
+      "tremendous perseverance and has really come together as one Intel to deliver for our customers"
+    ],
+    "macro_concerns_mentioned": [
+      "COVID-driven headwinds"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "CRM",
+    "date": "2022-08-24",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "lowered",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "we've delivered really strong revenue growth, profitability and cash flow, showing yet again the resilience and durability of our business model",
+      "Our remaining performance obligation or the total undelivered contract value that we have with our customers is really an incredible $41.6 billion",
+      "digital transformation remains the No. 1 priority for CEOs and that every digital transformation begins and ends with the customer"
+    ],
+    "key_bearish_phrases": [
+      "Sales cycles can get stretched. Deals are inspected by higher levels of management, and all of this, we began to start to see in July",
+      "We expect these trends to continue in the near term, and we reflected this in our guidance",
+      "we're revising our fiscal '23 revenue guidance to $30.9 billion to $31 billion or about 17% growth year over year"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds",
+      "economic environment",
+      "currency fluctuation",
+      "economic cycles"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2020-03-12",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.72,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "we had an excellent quarter in Q3 with total revenue growth of 3% in constant currency and EPS of $0.97 in US dollars. Both revenue and EPS were above the mid-point of my guidance",
+      "It was really a remarkable quarter with a lot of product and customer momentum in both applications and infrastructure. The quarter demonstrated the acceleration of revenue that I had been forecasting",
+      "Fusion apps were up 32%. Fusion ERP was up 38% and Fusion HCM was up 27%. NetSuite ERP was up 26%"
+    ],
+    "key_bearish_phrases": [
+      "we saw a strengthening US dollar, which resulted in a negative headwind to total revenue",
+      "Over the last few weeks, we've observed the growing public concern",
+      "It's not yet clear what the effect"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds",
+      "COVID-19 virus"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2019-09-12",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "in-line",
+    "eps_surprise_language": "in-line",
+    "key_bullish_phrases": [
+      "Cloud Services and License Support revenues for the quarter were $6.8 billion, up 4% and accounting for nearly three-quarters of total Company revenues",
+      "Fusion apps up nearly 40%, including Fusion ERP up mid-40s and Fusion HCM, up low 30s",
+      "we saw double-digit revenue growth in cloud revenue in all regions with especially strong results in Latin America and Asia Pacific"
+    ],
+    "key_bearish_phrases": [
+      "Cloud and On-Premise License revenues were $812 million, down 6%, coming off 15% license growth last quarter",
+      "currency movements in Q1 were modestly more than expected with a 1.3% headwind to total revenues and $0.01 headwind to earnings per share",
+      "Mark will be taking a leave of absence for health-related reasons"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "CRM",
+    "date": "2022-03-01",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Salesforce had perhaps the best quarter it's ever had in its history",
+      "we are in a very different position in the world today, fighting these things than we were a couple of years ago",
+      "We have 75,000 employees now in the company. Thirty-five thousand of our 75,000 employees have started since the pandemic"
+    ],
+    "key_bearish_phrases": [
+      "This is probably one of those calls that the most difficult type of call that we can do",
+      "all of us are witnesses to tragedies that we cannot believe our eyes"
+    ],
+    "macro_concerns_mentioned": [
+      "Ukraine-Russia conflict",
+      "COVID-19 pandemic"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "ticker": "META",
+    "date": "2021-10-25",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.1,
+    "management_tone": "defensive",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We made good progress this quarter across a number of product priorities and our community continues to grow. There are now almost 3.6 billion people who actively use one or more of our services",
+      "the bottom line is we expect we'll be able to navigate these headwinds over time with investments that we're already making today",
+      "we believe that our systems are the most effective at reducing harmful content across the industry"
+    ],
+    "key_bearish_phrases": [
+      "As expected, we did experience revenue headwinds this quarter, including from Apple's changes that are not only negatively affecting our business but millions of small businesses in what is already a difficult time for them and the economy",
+      "what we are seeing is a coordinated effort to selectively use leaked documents to paint a false picture of our company",
+      "we are on track to spend more than $5 billion on safety and security in 2021"
+    ],
+    "macro_concerns_mentioned": [
+      "Apple's iOS changes",
+      "difficult economic time",
+      "polarization",
+      "media criticism"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "ticker": "BAC",
+    "date": "2022-04-18",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.72,
+    "management_tone": "confident",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Net interest income grew 13% and is expected to grow significantly from here",
+      "We made trading profits every day during the quarter",
+      "We grew pre-tax pre-provision income by 8%. We had a return on tangible common equity of 15.5%"
+    ],
+    "key_bearish_phrases": [
+      "In a quarter that had a lot of variables show up",
+      "All this came in that quarter that saw geopolitical conflict, rising interest rates, a pandemic, rising inflation concerns, and much, much more",
+      "the investment banking fee line was down from the record quarters of the past year"
+    ],
+    "macro_concerns_mentioned": [
+      "geopolitical conflict",
+      "rising interest rates",
+      "pandemic",
+      "rising inflation concerns",
+      "humanitarian crisis in Ukraine",
+      "market turmoil",
+      "supply chains"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2021-11-17",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Q3 was an outstanding quarter with revenue of $7.1 billion and year-on-year growth of 50%. We set records for total revenue as well as for Gaming, Data Center and Professional Visualization.",
+      "Demand was strong across the board.",
+      "Initial market reception to Omniverse has been incredible. Professionals at over 700 companies are evaluating the platform"
+    ],
+    "key_bearish_phrases": [
+      "Our GPUs are capable of crypto mining, but we don't have visibility into how much this impacts our overall GPU demand.",
+      "The sequential decline was primarily driven by AI cockpit revenue, which has negatively been impacted by automotive manufacturers supply constraints."
+    ],
+    "macro_concerns_mentioned": [
+      "supply constraints"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2019-04-25",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.3,
+    "management_tone": "cautious",
+    "guidance_direction": "maintained",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "we're very happy with the progress of the business in India",
+      "we feel pretty good about the Q1 growth there",
+      "Pretty significant beat there"
+    ],
+    "key_bearish_phrases": [
+      "unit growth was 10%. I think it's the lowest unit growth I think we've ever seen",
+      "international sales growth decelerated 16%",
+      "There was a few days of downtime for some of our selection"
+    ],
+    "macro_concerns_mentioned": [
+      "FX headwinds",
+      "changes in global economic conditions and customer spending",
+      "fluctuations in foreign exchange rates"
+    ],
+    "confidence": 0.85
+  },
+  {
+    "ticker": "AMD",
+    "date": "2021-07-27",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Our business performed exceptionally well in the second quarter as strong execution and growing customer preference for our high-performance products generated significant market and financial momentum",
+      "second-quarter revenue growing 99% year over year to $3.85 billion. We expanded our gross margins by four percentage points, doubled operating margin and more than tripled profitability year over year",
+      "We delivered record revenue for the fourth straight quarter and generated record free cash flow in the quarter"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2019-11-14",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.65,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Results exceeded our expectation, driven by strength in both desktop and notebook gaming",
+      "RTX GPUs now drive more than two-third of our desktop gaming GPU revenue",
+      "Our hyperscale revenue grew both sequentially and year-on-year and we believe our visibility is improving"
+    ],
+    "key_bearish_phrases": [
+      "Q3 revenue was $3.01 billion, down 5% year-on-year",
+      "revenue of $1.66 billion was down 6% year-on-year",
+      "data center, revenue was $726 million, down 8% year-on-year"
+    ],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.9
+  },
+  {
+    "ticker": "V",
+    "date": "2022-07-26",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "beat",
+    "key_bullish_phrases": [
+      "Visa's business model has proven to be very resilient with strong financial performance. Net revenues grew 19% year over year, and non-GAAP EPS was $1.98, up 33%.",
+      "Based on our numbers, we haven't seen any evidence of consumer pulling back spending in our markets.",
+      "Travel-related cross-border volumes rose 22 points from 82% of 2019 in Q2 to 104% in Q3 as we continue to see strong recovery in consumer and commercial travel."
+    ],
+    "key_bearish_phrases": [
+      "several global and macro events from the war in Ukraine to inflation, to concerns over a broader recession",
+      "International volume was 120% of 2019, down 1 point from Q2",
+      "It's just too early to draw any definitive conclusions. A few observations, though, on inflation."
+    ],
+    "macro_concerns_mentioned": [
+      "war in Ukraine",
+      "inflation",
+      "recession concerns",
+      "Russia impact",
+      "China impact"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "AMD",
+    "date": "2022-05-03",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.8,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We started the year very strong with record quarterly revenue and net income. First quarter revenue, including the contributions from six weeks of Xilinx, grew 71% year over year to a record $5.9 billion.",
+      "We expanded gross margin 7 percentage points to 53% and more than doubled both operating and net income year over year.",
+      "we believe we gained client processor revenue share for the eighth straight quarter"
+    ],
+    "key_bearish_phrases": [
+      "the PC market is experiencing some softness coming off multiple quarters of near-record unit shipments"
+    ],
+    "macro_concerns_mentioned": [
+      "PC market softness"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "CRM",
+    "date": "2019-06-04",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.85,
+    "management_tone": "confident",
+    "guidance_direction": "raised",
+    "revenue_surprise_language": "beat",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "revenue in the quarter rose to more than $3.7 billion, up 24% in dollars and 26% in constant currency",
+      "we delivered nearly $2 billion in operating cash flow, up 34% year-over-year",
+      "No other enterprise software company of our size and scale is growing at this rate"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [],
+    "confidence": 0.95
+  },
+  {
+    "ticker": "V",
+    "date": "2023-01-26",
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.75,
+    "management_tone": "confident",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "first-quarter net revenues grew 12% year over year and non-GAAP EPS was $2.18, up 21%",
+      "cross-border volumes, excluding intra-Europe, grew 31% year over year and 132% versus three years ago, up five points from Q4",
+      "Travel-related cross-border volumes rose six points from 112% of 2019 in Q4 to 118% in Q1, driven by Asia Pacific, helped by China lifting restrictions"
+    ],
+    "key_bearish_phrases": [],
+    "macro_concerns_mentioned": [
+      "Russia",
+      "China restrictions"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "WFC",
+    "date": "2021-10-14",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.25,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "We earned $5.1 billion or $1.17 per common share in the third quarter",
+      "for the first time since first-quarter 2020, we grew both period-end loans and deposits in the third quarter",
+      "Weekly debit card spend during the third quarter was up every week compared to 2019 and in the week ending October 1 was up 14% compared to 2020 and 26% compared to 2019"
+    ],
+    "key_bearish_phrases": [
+      "Revenue declined on lower gains from equity securities",
+      "Supply chain difficulties and labor shortages continue to represent significant challenges for our client base",
+      "it continues to be the case that we are likely to have setbacks along the way"
+    ],
+    "macro_concerns_mentioned": [
+      "supply chain difficulties",
+      "labor shortages"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "ticker": "WFC",
+    "date": "2023-01-13",
+    "overall_sentiment": "neutral",
+    "sentiment_score": 0.15,
+    "management_tone": "cautious",
+    "guidance_direction": "none",
+    "revenue_surprise_language": "none",
+    "eps_surprise_language": "none",
+    "key_bullish_phrases": [
+      "Rising interest rates drove strong net interest income growth",
+      "Our continued progress and our efficiency initiatives helped to drive expenses lower excluding operating losses",
+      "Our capital levels also remained very strong. And our CET1 ratio increased to 10.6%, well above our required minimum plus buffers"
+    ],
+    "key_bearish_phrases": [
+      "Our results were significantly impacted by previously disclosed operating losses",
+      "charge-offs have continued to increase but credit quality remains strong",
+      "While our risk and regulatory work hasn't always followed a straight line and we have more to do"
+    ],
+    "macro_concerns_mentioned": [
+      "interest rates",
+      "regulatory issues",
+      "credit quality"
+    ],
+    "confidence": 0.85
+  }
+]
