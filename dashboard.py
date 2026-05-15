@@ -1,6 +1,8 @@
 from dotenv import load_dotenv
 load_dotenv()
-
+import os
+if hasattr(st, "secrets") and "ANTHROPIC_API_KEY" in st.secrets:
+    os.environ["ANTHROPIC_API_KEY"] = st.secrets["ANTHROPIC_API_KEY"]
 import json
 import numpy as np
 import pandas as pd
