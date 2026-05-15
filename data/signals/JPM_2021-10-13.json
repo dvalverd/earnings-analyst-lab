@@ -1,0 +1,27 @@
+{
+  "ticker": "JPM",
+  "date": "2021-10-13",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "It was another strong quarter for investment banking, including an all-time record for M&A",
+    "we see a number of indicators to suggest it has stabilized and may be poised to begin more robust growth across the company and particularly in card",
+    "credit continues to be quite healthy. In fact, net charge-offs are the lowest we've experienced in recent history"
+  ],
+  "key_bearish_phrases": [
+    "loan growth remains muted",
+    "Reserves stand at $20.5 billion, which still accounts for elevated uncertainties surrounding COVID and the current labor market dynamics",
+    "we expect it to take some time for revolving credit card balances to return to pre-pandemic levels given the amount of liquidity in the system"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID",
+    "labor market dynamics",
+    "expiration of expanded unemployment benefits",
+    "Delta variant"
+  ],
+  "confidence": 0.95
+}

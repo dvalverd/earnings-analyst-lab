@@ -1,0 +1,26 @@
+{
+  "ticker": "V",
+  "date": "2021-01-28",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Visa delivered strong financial results in our fiscal first quarter",
+    "Payments volume, processed transactions and cross-border volume all improved from Q4",
+    "We continued to win and renew business as we transfer money movement globally through consumer payments, new flows and value-added services"
+  ],
+  "key_bearish_phrases": [
+    "Net revenues in the fiscal first quarter were $5.7 billion, a year over year decrease of 6%",
+    "Non-GAAP EPS was $1.42, a decrease of 3%",
+    "COVID-19 infections really continue to rise, causing restrictions to be implemented in many parts of the world"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic",
+    "travel restrictions",
+    "weak credit and card presence"
+  ],
+  "confidence": 0.92
+}

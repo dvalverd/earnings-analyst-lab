@@ -1,0 +1,28 @@
+{
+  "ticker": "GS",
+  "date": "2020-10-14",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "we produced net revenues of $10.8 billion, up 30% versus a year ago",
+    "record quarterly earnings of $9.68 per share, and return on equity of 17.5%",
+    "The strength and breadth of our client franchise continue to be evident this quarter"
+  ],
+  "key_bearish_phrases": [
+    "Litigation costs burdened our year-to-date returns by over 500 basis points",
+    "we continue to navigate an uncertain backdrop brought on by COVID-19, which has an unclear trajectory",
+    "permanent job losses have risen to nearly 4 million people reflecting some of the deeper challenges"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19",
+    "interest rates",
+    "unemployment",
+    "fiscal support",
+    "monetary policy"
+  ],
+  "confidence": 0.95
+}

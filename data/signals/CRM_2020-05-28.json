@@ -1,0 +1,25 @@
+{
+  "ticker": "CRM",
+  "date": "2020-05-28",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we were coming off an amazing fourth quarter. It capped off another record year for Salesforce",
+    "February, the first month of our first quarter of fiscal year '21 just continued an amazing growth trajectory",
+    "this transition was extremely smooth. We rapidly learned that we can run Salesforce very effectively anywhere"
+  ],
+  "key_bearish_phrases": [
+    "our financial results for the first quarter reflect the unprecedented long-term investment that we've made in our employees, in our customers, and also our communities",
+    "By mid-March, of course, and all of you know, the virus emerged into this global biological and economic crisis",
+    "our expectations around the impact of the COVID-19 pandemic on our business, results of operations and financial condition and that of our customers and partners are uncertain and subject to change"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic",
+    "global biological and economic crisis"
+  ],
+  "confidence": 0.85
+}

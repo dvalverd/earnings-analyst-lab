@@ -1,0 +1,24 @@
+{
+  "ticker": "META",
+  "date": "2021-04-28",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "raised",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "This was another strong quarter. More than 2.7 billion people now use one or more of our apps each day, and more than 200 million businesses use our tools to reach customers.",
+    "over the past couple of quarters, our business has been performing better than we expected. And this has given us the confidence to increase our investments meaningfully",
+    "Quest 2 is doing better than we expected, even after the holiday season. We continue to see good engagement"
+  ],
+  "key_bearish_phrases": [
+    "There's still a long way to go here, and most of our investments to make this work are ahead of us.",
+    "we are very worried about the COVID situation in India and also in Brazil"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID situation in India",
+    "COVID situation in Brazil"
+  ],
+  "confidence": 0.92
+}

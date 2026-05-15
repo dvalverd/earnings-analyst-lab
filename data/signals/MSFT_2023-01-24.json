@@ -1,0 +1,26 @@
+{
+  "ticker": "MSFT",
+  "date": "2023-01-24",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "the Microsoft Cloud exceeded $27 billion in quarterly revenue, up 22% and 29% in constant currency",
+    "we're going to lead in the AI era, knowing that maximum enterprise value gets created during platform shifts",
+    "The age of AI is upon us and Microsoft is powering it"
+  ],
+  "key_bearish_phrases": [
+    "we are now seeing them optimize that spend",
+    "organizations are exercising caution given the macroeconomic uncertainty",
+    "aligning our own cost structure with our revenue growth"
+  ],
+  "macro_concerns_mentioned": [
+    "macroeconomic uncertainty",
+    "demand uncertainty",
+    "energy costs"
+  ],
+  "confidence": 0.9
+}

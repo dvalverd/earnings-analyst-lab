@@ -1,0 +1,27 @@
+{
+  "ticker": "NFLX",
+  "date": "2022-04-19",
+  "overall_sentiment": "bearish",
+  "sentiment_score": -0.7,
+  "management_tone": "defensive",
+  "guidance_direction": "lowered",
+  "revenue_surprise_language": "missed",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "internally, we're really geared up, and this is like our moment to shine",
+    "The long-term addressable market, we believe, is unchanged in terms of all broadband households",
+    "we have over 100 million households that already are choosing to view Netflix. They love the service"
+  ],
+  "key_bearish_phrases": [
+    "I know it's disappointing for investors, and it is for sure",
+    "lower acquisition really forced us to kind of tease apart what's going on",
+    "we're getting pretty high market penetration. And that, combined with the competition, is really what we think is driving the lower acquisition and lower growth"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID impact",
+    "Russia invasion of Ukraine",
+    "macro strain in Latin America",
+    "competition"
+  ],
+  "confidence": 0.95
+}

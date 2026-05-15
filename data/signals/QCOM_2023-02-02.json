@@ -1,0 +1,27 @@
+{
+  "ticker": "QCOM",
+  "date": "2023-02-02",
+  "overall_sentiment": "neutral",
+  "sentiment_score": -0.1,
+  "management_tone": "cautious",
+  "guidance_direction": "lowered",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "From a product and technology perspective, we believe we are in the strongest position in our history.",
+    "our long-term growth opportunities remain unchanged",
+    "In fiscal Q1...we deliver revenues of $9.5 billion and non-GAAP earnings of $2.37 per share, including year-over-year growth in QCT Automotive in IoT"
+  ],
+  "key_bearish_phrases": [
+    "we are now expecting elevated channel inventory levels to persist at least through the first half of calendar '23",
+    "UCT revenues of $7.9 billion were down 11% year over year as a result of weaker handset demand and inventory drawdown",
+    "multiple end industries within IoT are also experiencing weaker-than-expected demand and elevated inventory levels"
+  ],
+  "macro_concerns_mentioned": [
+    "macroeconomic headwinds",
+    "weaker handset demand",
+    "elevated inventory levels",
+    "reduced demand"
+  ],
+  "confidence": 0.92
+}

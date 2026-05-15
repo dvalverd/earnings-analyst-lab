@@ -1,0 +1,25 @@
+{
+  "ticker": "ORCL",
+  "date": "2020-03-12",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.72,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "we had an excellent quarter in Q3 with total revenue growth of 3% in constant currency and EPS of $0.97 in US dollars. Both revenue and EPS were above the mid-point of my guidance",
+    "It was really a remarkable quarter with a lot of product and customer momentum in both applications and infrastructure. The quarter demonstrated the acceleration of revenue that I had been forecasting",
+    "Fusion apps were up 32%. Fusion ERP was up 38% and Fusion HCM was up 27%. NetSuite ERP was up 26%"
+  ],
+  "key_bearish_phrases": [
+    "we saw a strengthening US dollar, which resulted in a negative headwind to total revenue",
+    "Over the last few weeks, we've observed the growing public concern",
+    "It's not yet clear what the effect"
+  ],
+  "macro_concerns_mentioned": [
+    "FX headwinds",
+    "COVID-19 virus"
+  ],
+  "confidence": 0.95
+}

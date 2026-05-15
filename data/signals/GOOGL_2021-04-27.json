@@ -1,0 +1,23 @@
+{
+  "ticker": "GOOGL",
+  "date": "2021-04-27",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Q1 revenue grew 46% year-over-year, with GCP's revenue growth rate, once again, meaningfully above Cloud overall",
+    "YouTube Shorts continues to gain popularity with over 6.5 billion daily views as of March, up from 3.5 billion at the end of 2020",
+    "data suggests that investment in start-ups is at an all-time high"
+  ],
+  "key_bearish_phrases": [
+    "recovery is far from uniform across the globe as the tragic scenes in countries like India and Brazil remind us"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic",
+    "uneven global recovery"
+  ],
+  "confidence": 0.92
+}

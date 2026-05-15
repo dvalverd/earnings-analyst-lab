@@ -1,0 +1,28 @@
+{
+  "ticker": "V",
+  "date": "2022-10-25",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Visa's performance in 2022 was very strong even with the uncertainty created by inflation, the war in Ukraine, COVID, the timing of cross-border travel recovery, and a potential recession",
+    "fiscal full year net revenues up 22% year over year and non-GAAP EPS of $7.50, up 27%",
+    "cross-border volumes, excluding intra-Europe, were up 49% year over year and 130% versus three years ago, up 7 points from Q3"
+  ],
+  "key_bearish_phrases": [
+    "uncertainty created by inflation, the war in Ukraine, COVID, the timing of cross-border travel recovery, and a potential recession",
+    "Total Q4 payments volume was up 10% year over year, or 135%, versus three years ago, down 1 point from Q3",
+    "International volume was up 9% year over year, or 126% of 2019, down 1 point versus Q3"
+  ],
+  "macro_concerns_mentioned": [
+    "inflation",
+    "war in Ukraine",
+    "COVID",
+    "potential recession",
+    "Russia exclusions"
+  ],
+  "confidence": 0.95
+}

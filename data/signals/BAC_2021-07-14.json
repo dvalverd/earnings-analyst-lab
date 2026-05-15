@@ -1,0 +1,24 @@
+{
+  "ticker": "BAC",
+  "date": "2021-07-14",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we're seeing credit quality levels that are very strong. Net charge-offs fell to 25-year low as a percentage of loans",
+    "the total BAC consumer small business payments set a fourth quarterly consecutive record, reaching $976 billion, up 41% year over year and 23% over '19",
+    "consumer spending from our own BAC customers, which is not only much higher than the same periods in 2020, which you would expect, but is notably 22% higher than the first half of '21 compared to 2019"
+  ],
+  "key_bearish_phrases": [
+    "did slow a bit toward the end of the quarter"
+  ],
+  "macro_concerns_mentioned": [
+    "healthcare crisis",
+    "pandemic recovery",
+    "unemployment rate"
+  ],
+  "confidence": 0.95
+}

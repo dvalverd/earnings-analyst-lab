@@ -1,0 +1,23 @@
+{
+  "ticker": "CRM",
+  "date": "2021-02-25",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "raised",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we had such an incredible year and an incredible quarter, and you can see it in these incredible numbers",
+    "we're raising our fiscal year '22 guidance to $25.75 billion which is now at the high end of our range, representing 21% projected growth year over year",
+    "There's never been a software company over $20 billion in revenue that is growing as fast as we are"
+  ],
+  "key_bearish_phrases": [
+    "our expectations around the impact of the COVID-19 pandemic on our business acquisitions, results of operations and financial condition and that of our customers and partners are uncertain and subject to change",
+    "we're not really back to the way it was"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic"
+  ],
+  "confidence": 0.95
+}

@@ -1,0 +1,27 @@
+{
+  "ticker": "CRM",
+  "date": "2022-08-24",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "lowered",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we've delivered really strong revenue growth, profitability and cash flow, showing yet again the resilience and durability of our business model",
+    "Our remaining performance obligation or the total undelivered contract value that we have with our customers is really an incredible $41.6 billion",
+    "digital transformation remains the No. 1 priority for CEOs and that every digital transformation begins and ends with the customer"
+  ],
+  "key_bearish_phrases": [
+    "Sales cycles can get stretched. Deals are inspected by higher levels of management, and all of this, we began to start to see in July",
+    "We expect these trends to continue in the near term, and we reflected this in our guidance",
+    "we're revising our fiscal '23 revenue guidance to $30.9 billion to $31 billion or about 17% growth year over year"
+  ],
+  "macro_concerns_mentioned": [
+    "FX headwinds",
+    "economic environment",
+    "currency fluctuation",
+    "economic cycles"
+  ],
+  "confidence": 0.95
+}

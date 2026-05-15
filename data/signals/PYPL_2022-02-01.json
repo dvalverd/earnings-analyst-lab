@@ -1,0 +1,27 @@
+{
+  "ticker": "PYPL",
+  "date": "2022-02-01",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.1,
+  "management_tone": "cautious",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "in-line",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "2021 was one of the strongest years in PayPal's history. Our revenues grew by 18% to $25.4 billion, and our non-GAAP EPS grew 19% to $4.60.",
+    "We surpassed $1 trillion in annual TPV for the first time in our history, ending the year with $1.25 trillion of total payment volume.",
+    "Ex eBay, our revenue growth was very strong, growing 29% on a spot basis for the full year and 22% in Q4."
+  ],
+  "key_bearish_phrases": [
+    "2021 was also a difficult year. It was a particularly hard year to forecast.",
+    "eBay's migration to managed payments happened faster than we anticipated. Overall, eBay put $1.4 billion of pressure on our top line, reducing our revenue growth by 700 basis points.",
+    "2022 is going to be a year of transformation and investment as we transition from outsized growth driven by lockdowns during the pandemic and finalize the lapping of eBay's managed payments transition."
+  ],
+  "macro_concerns_mentioned": [
+    "supply chain issues",
+    "inflationary pressures",
+    "COVID variants",
+    "elimination of government stimulus"
+  ],
+  "confidence": 0.92
+}

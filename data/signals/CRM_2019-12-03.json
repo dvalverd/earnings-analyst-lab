@@ -1,0 +1,18 @@
+{
+  "ticker": "CRM",
+  "date": "2019-12-03",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "raised",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "I'm thrilled to share that our Q3 results were outstanding. Revenue rose to $4.5 billion, up 34% in constant currency.",
+    "we are also intending to double the company by fiscal year '24 with a revenue target of $34 billion to $35 billion, making us the fastest enterprise software company to reach that milestone",
+    "for the sixth year in a row, Salesforce is the number one CRM provider by market share according to the latest IDC worldwide semiannual software tracker"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

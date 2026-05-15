@@ -1,0 +1,26 @@
+{
+  "ticker": "AMZN",
+  "date": "2019-04-25",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.3,
+  "management_tone": "cautious",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "we're very happy with the progress of the business in India",
+    "we feel pretty good about the Q1 growth there",
+    "Pretty significant beat there"
+  ],
+  "key_bearish_phrases": [
+    "unit growth was 10%. I think it's the lowest unit growth I think we've ever seen",
+    "international sales growth decelerated 16%",
+    "There was a few days of downtime for some of our selection"
+  ],
+  "macro_concerns_mentioned": [
+    "FX headwinds",
+    "changes in global economic conditions and customer spending",
+    "fluctuations in foreign exchange rates"
+  ],
+  "confidence": 0.85
+}

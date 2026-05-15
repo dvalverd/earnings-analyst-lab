@@ -1,0 +1,23 @@
+{
+  "ticker": "INTC",
+  "date": "2020-10-22",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "We exceeded our top-line expectation by $133 million and our bottom-line expectation by $0.01",
+    "This is the world's best processor for thin and light notebooks. In real-world workloads versus competitive products, Tiger Lake delivers up to 2.7 times faster content creation, 20% faster office productivity and more than two times faster gaming",
+    "I'm excited to announce that we now expect 100 Tiger Lake-based designs in the market by the end of this year double the expectation we provided in April"
+  ],
+  "key_bearish_phrases": [
+    "We delivered solid third-quarter revenue and profitability despite increasing COVID-driven headwinds affecting significant portions of our business",
+    "tremendous perseverance and has really come together as one Intel to deliver for our customers"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-driven headwinds"
+  ],
+  "confidence": 0.92
+}

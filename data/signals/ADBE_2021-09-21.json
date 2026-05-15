@@ -1,0 +1,18 @@
+{
+  "ticker": "ADBE",
+  "date": "2021-09-21",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "Adobe had another outstanding quarter, as people across the globe continue to embrace new ways of storytelling, learning and customer engagement in a digital-first environment",
+    "In Q3, we drove record performance in our Digital Media business, achieving $2.87 billion in revenue, representing 23% year-over-year growth",
+    "Net new Digital Media annualized recurring revenue or ARR was $455 million, and total Digital Media ARR exiting Q3 grew to $11.67 billion"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "V",
+  "date": "2022-01-27",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.82,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "Our net revenues grew 24% year over year. Non-GAAP EPS was $1.81, up 27%.",
+    "As we look ahead, we expect accelerated revenue growth versus pre-COVID over the coming years, driven by our three strategic levers of consumer payments, new flows, and value-added services.",
+    "In Q1, we crossed the $60 billion payment transaction mark for the first time in history, up 26% from two years ago."
+  ],
+  "key_bearish_phrases": [
+    "Amidst much uncertainty this quarter resulting from the ongoing COVID pandemic"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID pandemic"
+  ],
+  "confidence": 0.95
+}

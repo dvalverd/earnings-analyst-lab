@@ -1,0 +1,26 @@
+{
+  "ticker": "AAPL",
+  "date": "2020-04-30",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "withdrawn",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Today Apple reports $58.3 billion in revenue, an all-time record for services and a quarterly record for Wearables, Home and Accessories",
+    "we are proud to say that Apple grew during the quarter",
+    "new iPad Pro, Magic Keyboard, MacBook Air and the new iPhone SE, all of which have been very well received by reviewers and consumers alike"
+  ],
+  "key_bearish_phrases": [
+    "Amid the most challenging global environment in which we've ever operated our business",
+    "This is something Apple has been contending with since January",
+    "when the pandemic did strike"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19",
+    "pandemic",
+    "financial hardship for many families"
+  ],
+  "confidence": 0.9
+}

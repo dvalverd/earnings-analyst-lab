@@ -1,0 +1,23 @@
+{
+  "ticker": "TSLA",
+  "date": "2020-07-22",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.82,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we were able to achieve our fourth consecutive profitable quarter",
+    "despite that massive industry decline, we actually went up",
+    "Tesla Solar is the lowest-cost solar in the United States"
+  ],
+  "key_bearish_phrases": [
+    "there were so many challenges, too numerous to name",
+    "the automotive industry was down about 30% year over year in the first half of the year"
+  ],
+  "macro_concerns_mentioned": [
+    "automotive industry decline"
+  ],
+  "confidence": 0.93
+}

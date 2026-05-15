@@ -1,0 +1,26 @@
+{
+  "ticker": "NFLX",
+  "date": "2021-07-20",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.25,
+  "management_tone": "cautious",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Our churn is actually down relative to the more comparable two-year-ago period in 2019, Q2 of '19 before COVID. Our viewing and we've talked about in the letter, our engagement is up nearly 20% over that period.",
+    "the underlying business metrics are really healthy",
+    "we'll have added 54 million new members over that two-year period or on average, 27 million a year, which is right in line with our past few years of growth in 2018 and '19"
+  ],
+  "key_bearish_phrases": [
+    "there's still a bit of choppiness to our growth. We had the kind of big pull forward in 2020 of subscriber adds.",
+    "we still feel a little bit of that drag in terms of our acquisition growth as we're kind of working through what we hope is we can't be sure but what we hope is the tail end of this COVID choppiness",
+    "on the margin, acquisition is impacted"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID impact on production and subscriber acquisition",
+    "market reopenings",
+    "Olympics"
+  ],
+  "confidence": 0.92
+}

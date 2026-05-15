@@ -1,0 +1,25 @@
+{
+  "ticker": "NVDA",
+  "date": "2019-08-15",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "in-line",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We are pleased with the strong sequential growth in the quarter, when we launched our RTX Super lineup for desktop gamers",
+    "The laptop business continues to be a standout growth driver as OEMs are ramping a record 100 plus gaming laptop models",
+    "RTX Studio laptops deliver performance that's up to seven times faster than that of the MacBook Pro"
+  ],
+  "key_bearish_phrases": [
+    "Q2 revenue was $2.58 billion in line with our outlook down 17% year-on-year",
+    "revenue of $1.31 billion was down 27% year-on-year",
+    "data center, revenue was $655 million, down 14% year-on-year"
+  ],
+  "macro_concerns_mentioned": [
+    "weak overall spending as a handful of CSPs",
+    "hyperscales use were muted"
+  ],
+  "confidence": 0.92
+}

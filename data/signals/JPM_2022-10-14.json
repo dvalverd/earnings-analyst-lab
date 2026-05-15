@@ -1,0 +1,27 @@
+{
+  "ticker": "JPM",
+  "date": "2022-10-14",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.25,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Our strong results this quarter reflect the resilience of the franchise in a dynamic environment",
+    "credit is still healthy with net charge-offs remaining low",
+    "We ranked No. 1 in retail deposit share based on FDIC data"
+  ],
+  "key_bearish_phrases": [
+    "small business owners are increasingly focused on the risks and the economic outlook",
+    "with spending growing faster than income, we are seeing a continued decrease in median deposits year on year, particularly in the lower-income segment",
+    "Underwriting businesses continued to be affected by market volatility"
+  ],
+  "macro_concerns_mentioned": [
+    "interest rates",
+    "market volatility",
+    "economic outlook",
+    "vehicle supply constraints"
+  ],
+  "confidence": 0.92
+}

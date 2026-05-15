@@ -1,0 +1,22 @@
+{
+  "ticker": "AMD",
+  "date": "2022-05-03",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.8,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We started the year very strong with record quarterly revenue and net income. First quarter revenue, including the contributions from six weeks of Xilinx, grew 71% year over year to a record $5.9 billion.",
+    "We expanded gross margin 7 percentage points to 53% and more than doubled both operating and net income year over year.",
+    "we believe we gained client processor revenue share for the eighth straight quarter"
+  ],
+  "key_bearish_phrases": [
+    "the PC market is experiencing some softness coming off multiple quarters of near-record unit shipments"
+  ],
+  "macro_concerns_mentioned": [
+    "PC market softness"
+  ],
+  "confidence": 0.95
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "V",
+  "date": "2022-07-26",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "Visa's business model has proven to be very resilient with strong financial performance. Net revenues grew 19% year over year, and non-GAAP EPS was $1.98, up 33%.",
+    "Based on our numbers, we haven't seen any evidence of consumer pulling back spending in our markets.",
+    "Travel-related cross-border volumes rose 22 points from 82% of 2019 in Q2 to 104% in Q3 as we continue to see strong recovery in consumer and commercial travel."
+  ],
+  "key_bearish_phrases": [
+    "several global and macro events from the war in Ukraine to inflation, to concerns over a broader recession",
+    "International volume was 120% of 2019, down 1 point from Q2",
+    "It's just too early to draw any definitive conclusions. A few observations, though, on inflation."
+  ],
+  "macro_concerns_mentioned": [
+    "war in Ukraine",
+    "inflation",
+    "recession concerns",
+    "Russia impact",
+    "China impact"
+  ],
+  "confidence": 0.95
+}

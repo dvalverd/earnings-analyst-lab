@@ -1,0 +1,20 @@
+{
+  "ticker": "META",
+  "date": "2021-01-27",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Our community and business had a strong end of the year.",
+    "2.6 billion people now use one or more of our apps each day, and more than 200 million businesses, mostly small businesses, use our free tools to reach customers.",
+    "more than 600 million people are now members of a group on Facebook that they consider to be meaningful in their lives"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [
+    "COVID"
+  ],
+  "confidence": 0.9
+}

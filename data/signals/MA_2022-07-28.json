@@ -1,0 +1,28 @@
+{
+  "ticker": "MA",
+  "date": "2022-07-28",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We delivered strong revenue and earnings growth with further improvement in our underlying operating metrics, notably in cross-border travel. Quarter 2 adjusted net revenues were up 27% and adjusted operating income up 40% versus a year ago",
+    "consumer spending and particularly travel-related spending remains strong",
+    "Cross-border travel in Quarter 2 has now reached 118% of 2019 levels"
+  ],
+  "key_bearish_phrases": [
+    "Inflationary pressures have remained persistent, and we are now seeing central banks taking even more aggressive steps to reduce inflation",
+    "The situation has been compounded by geopolitical tensions and supply chain constraints",
+    "the risks related to both the supply of natural gas and higher interest rates remain headwinds"
+  ],
+  "macro_concerns_mentioned": [
+    "inflation",
+    "interest rates",
+    "geopolitical tensions",
+    "supply chain constraints",
+    "FX headwinds"
+  ],
+  "confidence": 0.95
+}

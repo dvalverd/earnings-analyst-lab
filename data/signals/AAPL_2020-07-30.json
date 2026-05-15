@@ -1,0 +1,26 @@
+{
+  "ticker": "AAPL",
+  "date": "2020-07-30",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "In an uncertain environment, Apple saw a quarter of historic results, demonstrating the important role our products play in our customers' lives. We set a June quarter record with revenue of $59.7 billion, up 11% from a year ago.",
+    "We saw very strong double-digit growth for these devices this quarter.",
+    "Services generated a June quarter record of $13.2 billion, up 15% year over year."
+  ],
+  "key_bearish_phrases": [
+    "Due to the uncertain and ongoing impacts of COVID-19, we did not provide our typical guidance when we reported our results last quarter",
+    "This remarkable performance came in spite of supply constraints on both products.",
+    "results for advertising and AppleCare were impacted by the reduced level of economic activity and store closures"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19",
+    "economic activity",
+    "supply constraints"
+  ],
+  "confidence": 0.95
+}

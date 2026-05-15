@@ -1,0 +1,18 @@
+{
+  "ticker": "AMD",
+  "date": "2021-10-26",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We delivered our fifth straight quarter of greater than 50% year-over-year revenue growth, with each of our businesses growing significantly year over year and data center sales more than doubling.",
+    "Our business performed extremely well in the third quarter as our leadership product portfolio and strong execution drove record quarterly revenue, operating income, net income, and earnings per share.",
+    "Third-quarter revenue grew 54% to $4.3 billion. Gross margin expanded by more than 4 percentage points and operating income doubled year over year."
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

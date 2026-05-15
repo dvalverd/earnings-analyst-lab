@@ -1,0 +1,20 @@
+{
+  "ticker": "MSFT",
+  "date": "2021-10-26",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We're off to a fast start in fiscal 2022 with Microsoft Cloud quarterly revenue surpassing $20 billion for the first time, up 36% year over year",
+    "Digital technology is a deflationary force in an inflationary economy",
+    "Seventy-eight percent of the Fortune 500 use our hybrid offerings"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [
+    "inflationary economy"
+  ],
+  "confidence": 0.95
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "GOOGL",
+  "date": "2021-02-02",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.82,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Google Cloud delivered revenue growth of 47% year-over-year, with GCP growth remaining meaningfully above the growth rate for Cloud overall",
+    "our backlog grew to nearly $30 billion, up from $19 billion in Q3, nearly all attributable to Cloud",
+    "Deals over $250 million more than tripled in the same period"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic"
+  ],
+  "confidence": 0.9
+}

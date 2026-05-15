@@ -1,0 +1,27 @@
+{
+  "ticker": "MA",
+  "date": "2021-01-28",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.35,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Fourth-quarter revenue and EPS growth rates versus a year ago are continuing to show sequential improvement",
+    "our switched volume growth rates, excluding travel and entertainment, were similar to what we saw in Q4 2019 pre-pandemic",
+    "we believe there is significant pent-up demand for travel"
+  ],
+  "key_bearish_phrases": [
+    "overall Europe retail sales slowed with a decline of 1.9% for the quarter, in part due to the recent lockdowns",
+    "Domestic travel, including spending in categories such as lodging and restaurants, declined slightly in the quarter, reversing some of the improvement we saw in the summer months",
+    "Cross-border travel remains limited"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic",
+    "lockdowns",
+    "border restrictions",
+    "travel restrictions"
+  ],
+  "confidence": 0.9
+}

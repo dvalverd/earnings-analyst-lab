@@ -1,0 +1,27 @@
+{
+  "ticker": "GOOGL",
+  "date": "2020-04-28",
+  "overall_sentiment": "cautious",
+  "sentiment_score": -0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we'll see a long-term acceleration of movement from businesses to digital services, including increased online work, education, medicine, shopping, and entertainment. These changes will be significant and lasting.",
+    "This is a testament to strategic areas where we have invested over recent years, products that people trust, our technical leadership and innovation, deep partnerships, a highly skilled workforce, and the scale and resilience of our operations.",
+    "it's been a huge privilege to be able to help people and businesses at this moment"
+  ],
+  "key_bearish_phrases": [
+    "Today, there is still a great deal of uncertainty regarding the path to recovery",
+    "our advertising business, which was significantly impacted in the last few weeks of the quarter",
+    "A return to normal economic activity depends on how effectively societies manage the spread of the virus. There is no one size fits all and the timing and pace of recovery will vary from location to location."
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic",
+    "economic uncertainty",
+    "recovery timing variability",
+    "advertising impact"
+  ],
+  "confidence": 0.92
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "PYPL",
+  "date": "2021-07-28",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.82,
+  "management_tone": "confident",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "our Q2 results once again reflect some of the best performance in our history on both an absolute and a relative basis",
+    "we hit a new milestone in Q2 surpassing $300 billion of TPV for the first time in our history, growing 40% on a spot basis",
+    "Excluding eBay, our volumes grew by a remarkable 48% on a spot basis"
+  ],
+  "key_bearish_phrases": [
+    "eBay's TPV on our platform declined by 37%",
+    "this accelerated ramp puts an additional 100 basis points of revenue pressure in 2021",
+    "absorbed 811 basis points of revenue pressure from eBay"
+  ],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

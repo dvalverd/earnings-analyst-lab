@@ -1,0 +1,25 @@
+{
+  "ticker": "NVDA",
+  "date": "2021-02-24",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Q4 was another record quarter with revenue exceeding $5 billion and year-on-year growth accelerating to 61%",
+    "Demand is incredible for our new GeForce RTX 30 Series products based on the NVIDIA Ampere GPU architecture",
+    "Our Gaming business reached record revenue of $2.5 billion in Q4, up 10% sequentially and up 67% from a year earlier"
+  ],
+  "key_bearish_phrases": [
+    "channel inventories will likely remain low throughout Q1",
+    "With rising Ethereum prices, there are indications that miners are behind GPUs",
+    "we don't have the ability to accurately track or quantify their end-use"
+  ],
+  "macro_concerns_mentioned": [
+    "cryptocurrency mining demand",
+    "supply constraints"
+  ],
+  "confidence": 0.95
+}

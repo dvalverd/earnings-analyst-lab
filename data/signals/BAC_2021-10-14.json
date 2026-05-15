@@ -1,0 +1,25 @@
+{
+  "ticker": "BAC",
+  "date": "2021-10-14",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.78,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "the pre-pandemic organic growth machine has kicked back in",
+    "We've now earned over $25 billion for the first nine months of the year",
+    "Year over year, our revenues are up 12%, and the expenses were flat"
+  ],
+  "key_bearish_phrases": [
+    "the U.S. still has issues around labor supply and supply chains of materials",
+    "modest slowdown from the surge in cases caused by the Delta variant"
+  ],
+  "macro_concerns_mentioned": [
+    "labor supply",
+    "supply chains",
+    "Delta variant"
+  ],
+  "confidence": 0.95
+}

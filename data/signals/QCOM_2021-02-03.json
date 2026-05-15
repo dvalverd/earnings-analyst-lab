@@ -1,0 +1,24 @@
+{
+  "ticker": "QCOM",
+  "date": "2021-02-03",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "record first-quarter non-GAAP revenues of $8.2 billion, up 63% year over year, and record non-GAAP earnings of $2.17 per share, more than doubling from the prior year",
+    "our strong performance and outlook would have been even stronger had we not been supply constrained",
+    "Our RF adjacency demonstrated continued growth with quarterly revenues more than doubling year over year and crossing the $1 billion threshold, a significant milestone"
+  ],
+  "key_bearish_phrases": [
+    "our strong performance and outlook would have been even stronger had we not been supply constrained",
+    "in spite of supply constraints and the continued impact of the pandemic"
+  ],
+  "macro_concerns_mentioned": [
+    "supply constraints",
+    "pandemic impact"
+  ],
+  "confidence": 0.95
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "TSLA",
+  "date": "2020-04-29",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.82,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "This is the first time we have achieved positive GAAP net income in a seasonally weak first quarter.",
+    "Most surprisingly, Model Y was profitable already in its first quarter of production, something we haven't achieved with any product in the past.",
+    "I feel extremely confident that it will be possible to do a drive from your home to your office, and most of the time with no interventions by the end of the year."
+  ],
+  "key_bearish_phrases": [
+    "Q1 ended up being a strong quarter despite many challenges in the final few weeks.",
+    "Even with all the challenges"
+  ],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.92
+}

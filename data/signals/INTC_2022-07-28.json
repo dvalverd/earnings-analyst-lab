@@ -1,0 +1,28 @@
+{
+  "ticker": "INTC",
+  "date": "2022-07-28",
+  "overall_sentiment": "bearish",
+  "sentiment_score": -0.4,
+  "management_tone": "defensive",
+  "guidance_direction": "lowered",
+  "revenue_surprise_language": "missed",
+  "eps_surprise_language": "missed",
+  "key_bullish_phrases": [
+    "We are well into the ramp of Intel 7, now shipping in excess of 35 million units. Intel 4 is ready for volume production in second half of this year, and Intel 3, 20A and 18A are all at or ahead of schedule.",
+    "we announced MediaTek as our next major foundry customer, a great example of our One Intel culture",
+    "we remain firmly on track to achieve process performance parity in 2024 and unquestioned leadership in 2025"
+  ],
+  "key_bearish_phrases": [
+    "Q2 results were disappointing, below the standards we have set for the company and below the commitments we have made to you, our shareholders.",
+    "The sudden and rapid decline in economic activity was the largest driver of the shortfall, but Q2 also reflected our own execution issues in areas like product design, DCAI and the ramp of AXG offerings.",
+    "We are planning for volatility as the world adjusts to the end of a two-plus year pandemic and the unprecedented stimulus governments used to fight it."
+  ],
+  "macro_concerns_mentioned": [
+    "economic activity decline",
+    "supply chain issues",
+    "inventory levels above normal",
+    "pandemic aftermath",
+    "semiconductor industry slowdown"
+  ],
+  "confidence": 0.95
+}

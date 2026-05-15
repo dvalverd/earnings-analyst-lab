@@ -1,0 +1,23 @@
+{
+  "ticker": "GOOGL",
+  "date": "2021-07-27",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we saw a rising tide of online consumer and business activity",
+    "Q2 revenue grew 54% year-over-year",
+    "over $120 billion has been earned cumulatively by developers around the world from Google Play"
+  ],
+  "key_bearish_phrases": [
+    "the new COVID-19 variants have been challenging for so many communities across the world"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 variants",
+    "cyber and ransomware attacks"
+  ],
+  "confidence": 0.92
+}

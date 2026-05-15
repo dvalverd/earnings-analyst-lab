@@ -1,0 +1,18 @@
+{
+  "ticker": "QCOM",
+  "date": "2022-04-27",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "we delivered record revenues of $11.2 billion and non-GAAP earnings of $3.21 per share, representing year-over-year growth of 41% and 69%, respectively, both exceeding the high end of our guidance",
+    "Our automotive design win pipeline is now over $16 billion, up more than $3 billion since fiscal Q1",
+    "IoT revenues grew 61% year over year with strong growth across all three categories of consumer, edge networking and industrial"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

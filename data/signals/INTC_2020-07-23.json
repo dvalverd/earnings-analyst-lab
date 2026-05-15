@@ -1,0 +1,23 @@
+{
+  "ticker": "INTC",
+  "date": "2020-07-23",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "We exceeded our guidance by 1.2 billion on the top line and $0.13 on the bottom line",
+    "Our data-centric businesses grew 34% and drove approximately 52% of the company's revenue",
+    "both our cloud and comms service provider businesses grew more than 40% year over year"
+  ],
+  "key_bearish_phrases": [
+    "COVID-19 has driven redesigned workflows and added additional environmental stress that I know has strained employees and ecosystem partners",
+    "Amid a very challenging environment"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19"
+  ],
+  "confidence": 0.95
+}

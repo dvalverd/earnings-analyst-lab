@@ -1,0 +1,26 @@
+{
+  "ticker": "AMZN",
+  "date": "2021-02-02",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "more than 500,000 people chose to take new jobs at Amazon in 2020",
+    "The square foot is growing about 50% year over year in 2020",
+    "We welcome nearly 175,000 new full and part-time employees in Q4 alone"
+  ],
+  "key_bearish_phrases": [
+    "The Q4 results include approximately $4 billion in COVID related operating costs",
+    "We continue to see productivity headwinds from physical separation and training of new employees",
+    "This key force spend brings our total COVID related costs for the year to more than $11.5 billion"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic",
+    "foreign exchange rates",
+    "global economic conditions"
+  ],
+  "confidence": 0.9
+}

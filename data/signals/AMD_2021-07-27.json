@@ -1,0 +1,18 @@
+{
+  "ticker": "AMD",
+  "date": "2021-07-27",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Our business performed exceptionally well in the second quarter as strong execution and growing customer preference for our high-performance products generated significant market and financial momentum",
+    "second-quarter revenue growing 99% year over year to $3.85 billion. We expanded our gross margins by four percentage points, doubled operating margin and more than tripled profitability year over year",
+    "We delivered record revenue for the fourth straight quarter and generated record free cash flow in the quarter"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

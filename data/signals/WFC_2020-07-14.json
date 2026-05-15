@@ -1,0 +1,28 @@
+{
+  "ticker": "WFC",
+  "date": "2020-07-14",
+  "overall_sentiment": "bearish",
+  "sentiment_score": -0.7,
+  "management_tone": "defensive",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we did have record revenues this quarter in our corporate and investment bank",
+    "our CET1 ratio increased to 10.9% from 10.7% last quarter and is well above our regulatory minimum of 9%",
+    "we will begin to take decisive actions, none of which will impact our risk and regulatory work, to increase our margins"
+  ],
+  "key_bearish_phrases": [
+    "I'm going to open the call by reviewing what is clearly a very poor quarter for us",
+    "Our view of the length and severity of the downturn deteriorated considerably from our assumptions at the end of the first quarter",
+    "We added $8.4 billion to the allowance for credit losses"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic",
+    "interest rates",
+    "economic downturn",
+    "credit losses",
+    "asset cap constraints"
+  ],
+  "confidence": 0.95
+}

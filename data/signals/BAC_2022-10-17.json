@@ -1,0 +1,25 @@
+{
+  "ticker": "BAC",
+  "date": "2022-10-17",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We grew revenues 8% year over year. We delivered our fifth straight quarter of operating leverage. Every business segment delivered operating leverage.",
+    "Pretax, pre-provision income grew 10% year over year. From our term perspective, we produced a 15% ROTCE and a 90-basis-point ROE.",
+    "In the third quarter alone, we added more than 400,000-plus net new consumer checking accounts. We added 1.3 million new credit card accounts."
+  ],
+  "key_bearish_phrases": [
+    "The decline from prior-year reported net income and EPS comparisons reflect a reserve build versus reserve release from last year.",
+    "This occurred even as we fully reopened our financial centers and had our teammates also selling.",
+    "We saw solid net flows despite the turbulence in the markets."
+  ],
+  "macro_concerns_mentioned": [
+    "market turbulence",
+    "storm devastation"
+  ],
+  "confidence": 0.92
+}

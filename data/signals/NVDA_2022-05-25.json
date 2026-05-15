@@ -1,0 +1,27 @@
+{
+  "ticker": "NVDA",
+  "date": "2022-05-25",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "lowered",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We delivered a strong quarter driven by record revenue in both Data Center and Gaming with strong fundamentals and execution",
+    "Data Center has become our largest market platform, and we see continued strong momentum going forward",
+    "RTX has brought tremendous energy into the gaming world, and has helped drive a sustained expansion in our higher-end platforms and installed base with significant runway still ahead"
+  ],
+  "key_bearish_phrases": [
+    "we started seeing softness in parts of Europe related to the war in the Ukraine and parts of China due to the COVID lockdowns",
+    "we are projecting Gaming revenue to decline sequentially in Q2",
+    "We expect a diminishing contribution going forward"
+  ],
+  "macro_concerns_mentioned": [
+    "war in Ukraine",
+    "COVID lockdowns in China",
+    "challenging macro backdrop",
+    "cryptocurrency mining headwinds"
+  ],
+  "confidence": 0.92
+}

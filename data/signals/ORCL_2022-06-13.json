@@ -1,0 +1,24 @@
+{
+  "ticker": "ORCL",
+  "date": "2022-06-13",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.82,
+  "management_tone": "confident",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "we had an excellent quarter across the board with total revenue growing 10% in constant currency, the highest organic growth we've seen since 2011",
+    "What Q4 demonstrates is that our business is accelerating",
+    "we continue to expect the revenue growth in our cloud business will accelerate substantially in fiscal year '23"
+  ],
+  "key_bearish_phrases": [
+    "the currency headwind this past quarter was 5%, which was considerably higher than the 2% to 3%, it was during our last earnings call",
+    "despite the macro environment"
+  ],
+  "macro_concerns_mentioned": [
+    "FX headwinds",
+    "macro environment"
+  ],
+  "confidence": 0.95
+}

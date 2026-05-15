@@ -1,0 +1,26 @@
+{
+  "ticker": "BAC",
+  "date": "2022-07-18",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.25,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We delivered on our fourth straight quarter of operating leverage. We grew revenue 6%, while expense rose 1.5% for 4.5% of operating leverage",
+    "The organic growth engine at Bank of America that exist pre-pandemic is back in full place here",
+    "Our asset quality remains very strong with net charge-offs in the second quarter of 2021 still 50% below pre-pandemic levels"
+  ],
+  "key_bearish_phrases": [
+    "Overall revenue in global banking was impacted by the weaker investment banking fees that were available in this volatile market; lower investment banking fees",
+    "In a period of declining market values where stocks and bonds had the worst first half in five decades",
+    "we also had marks, as previously discussed, our leveraged finance positions"
+  ],
+  "macro_concerns_mentioned": [
+    "volatile capital markets",
+    "declining market values",
+    "weak investment banking environment"
+  ],
+  "confidence": 0.92
+}

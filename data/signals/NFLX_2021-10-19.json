@@ -1,0 +1,25 @@
+{
+  "ticker": "NFLX",
+  "date": "2021-10-19",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "churn at low levels, down prior to the comparable periods, both in 2020 and two years ago, pre-COVID in 2019",
+    "as we got into the strength of the schedule on top of already kind of healthy business fundamentals, we saw a bit of an uptick in growth",
+    "we hoped that we were getting toward that kind of tail end of the COVID choppiness"
+  ],
+  "key_bearish_phrases": [
+    "growth was a little bit soft in the quarter",
+    "both of those markets are a bit more mature, more tenured, more penetrated than some of our other markets. So, we would expect growth to be just a little bit harder to work for",
+    "those production delays that we're working through"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID choppiness",
+    "production delays"
+  ],
+  "confidence": 0.92
+}

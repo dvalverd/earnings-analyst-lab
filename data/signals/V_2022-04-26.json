@@ -1,0 +1,27 @@
+{
+  "ticker": "V",
+  "date": "2022-04-26",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "Net revenues grew 25% year over year, and non-GAAP EPS was $1.79, up 30%",
+    "Overall, PV was up 135% versus three years ago",
+    "we still expect accelerated revenue growth versus pre-COVID over the coming years"
+  ],
+  "key_bearish_phrases": [
+    "our business will have a reset due to Russia",
+    "Even with the invasion of Ukraine and lingering impacts of Omicron",
+    "At this stage, in terms of volumes, we have seen no noticeable impact due to inflation, supply chain issues or the war in Ukraine"
+  ],
+  "macro_concerns_mentioned": [
+    "Russia-Ukraine war",
+    "Omicron",
+    "inflation",
+    "supply chain issues"
+  ],
+  "confidence": 0.95
+}

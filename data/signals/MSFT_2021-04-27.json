@@ -1,0 +1,18 @@
+{
+  "ticker": "MSFT",
+  "date": "2021-04-27",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "It was a record quarter powered by our continued strength of our commercial cloud.",
+    "digital adoption curves aren't slowing down. In fact, they're accelerating and it's just the beginning.",
+    "Queries performed using Synapse have increased 105% over the last quarter alone."
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.92
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "PYPL",
+  "date": "2021-05-05",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "raised",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "on the heels of the strongest year in PayPal's history, we just completed our strongest quarter ever with record financial and operating results",
+    "I'm pleased to share that we are raising our annual targets for revenue, EPS, TPV, and net new active accounts",
+    "we delivered non-GAAP EPS in Q1 of $1.22, up 84%"
+  ],
+  "key_bearish_phrases": [
+    "eBay revenues declined 12%, and we expect they will substantially complete their migration to manage payments by year end",
+    "eBay now represents 5.5% of our volume, and we expect their TPV to be approximately 3% of total volumes by year end"
+  ],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

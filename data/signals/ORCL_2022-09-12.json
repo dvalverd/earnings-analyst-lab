@@ -1,0 +1,24 @@
+{
+  "ticker": "ORCL",
+  "date": "2022-09-12",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We had an excellent quarter with total revenue growing 23% in constant currency and beating the high end of our guidance",
+    "our growth rates are higher than our hyperscale competitors... our growth rates are increasing as we get bigger",
+    "We continue to expect organic revenue growth in our cloud business will accelerate substantially in FY '23"
+  ],
+  "key_bearish_phrases": [
+    "The currency headwind this quarter was much higher than the 3% headwind that was present when we gave guidance. It was actually six points",
+    "we still exceeded our forecast on a reported basis, and we beat our constant-currency revenue forecast by $200 million"
+  ],
+  "macro_concerns_mentioned": [
+    "FX headwinds",
+    "currency volatility"
+  ],
+  "confidence": 0.95
+}

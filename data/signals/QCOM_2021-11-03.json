@@ -1,0 +1,18 @@
+{
+  "ticker": "QCOM",
+  "date": "2021-11-03",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "record fiscal fourth quarter non-GAAP revenues of $9.3 billion and record non-GAAP earnings per share of $2.55",
+    "this is our fifth consecutive quarter of greater than 100% year-over-year EBT growth in our chipset business",
+    "combined RF front-end, automotive and IoT fiscal '21 revenues exceeding $10 billion, an increase of 69% year over year"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

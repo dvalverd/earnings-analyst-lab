@@ -1,0 +1,22 @@
+{
+  "ticker": "QCOM",
+  "date": "2019-05-01",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "Our fiscal second quarter non-GAAP earnings of $0.77 per share exceeded the high end of our guidance range, driven by higher licensing revenues and stronger QCT margins.",
+    "We now have over 75 5G design wins more than double the number we announced last January, driven by OEM designs with our first and second generation 5G modems.",
+    "Our year-to-date non-Apple QCT operating income doubled compared to a two year-ago period putting us in a strong position to grow revenues and profits as we began ramping 5G"
+  ],
+  "key_bearish_phrases": [
+    "the rest of the fiscal year will be impacted by a slower market for devices, particularly in China, upstream of the larger rollouts of 5G worldwide"
+  ],
+  "macro_concerns_mentioned": [
+    "slower device market in China"
+  ],
+  "confidence": 0.95
+}

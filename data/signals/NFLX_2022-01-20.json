@@ -1,0 +1,26 @@
+{
+  "ticker": "NFLX",
+  "date": "2022-01-20",
+  "overall_sentiment": "bearish",
+  "sentiment_score": -0.4,
+  "management_tone": "defensive",
+  "guidance_direction": "lowered",
+  "revenue_surprise_language": "missed",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we're quite pleased with how the quarter played out",
+    "overall, the business was healthy. Retention was strong. Churn was down. Viewing was up.",
+    "Very high confidence in that thesis because everyone's coming into streaming"
+  ],
+  "key_bearish_phrases": [
+    "acquisition just, you know, growing but a bit slower than pre-COVID levels, just hasn't fully recovered",
+    "we guided to 2.5 million paid net adds in Q1",
+    "It's tough to say exactly why our acquisition hasn't, you know, kind of recovered to pre-COVID levels"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID overhang",
+    "macroeconomic strain",
+    "competition"
+  ],
+  "confidence": 0.92
+}

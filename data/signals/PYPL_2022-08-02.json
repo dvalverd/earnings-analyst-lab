@@ -1,0 +1,24 @@
+{
+  "ticker": "PYPL",
+  "date": "2022-08-02",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.25,
+  "management_tone": "cautious",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "in-line",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "we met or exceeded our expectations announced in April, marking the second quarter in a row of hitting our non-GAAP guidance",
+    "our preliminary revenue growth rate in July further accelerated to north of 14%",
+    "we will realize our target of approximately $900 million of savings in 2022 across our opex and transaction expenses"
+  ],
+  "key_bearish_phrases": [
+    "We are well underway in a deep transformation of our business to regain our momentum",
+    "eBay payment intermediation was a 400-basis-points drag on revenue growth in the quarter",
+    "Our strategy shift to focus on customer engagement from our unparalleled network of consumer and merchant accounts led to significant opportunity for greater efficiency"
+  ],
+  "macro_concerns_mentioned": [
+    "FX headwinds"
+  ],
+  "confidence": 0.85
+}

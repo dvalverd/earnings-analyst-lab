@@ -1,0 +1,23 @@
+{
+  "ticker": "NVDA",
+  "date": "2021-11-17",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Q3 was an outstanding quarter with revenue of $7.1 billion and year-on-year growth of 50%. We set records for total revenue as well as for Gaming, Data Center and Professional Visualization.",
+    "Demand was strong across the board.",
+    "Initial market reception to Omniverse has been incredible. Professionals at over 700 companies are evaluating the platform"
+  ],
+  "key_bearish_phrases": [
+    "Our GPUs are capable of crypto mining, but we don't have visibility into how much this impacts our overall GPU demand.",
+    "The sequential decline was primarily driven by AI cockpit revenue, which has negatively been impacted by automotive manufacturers supply constraints."
+  ],
+  "macro_concerns_mentioned": [
+    "supply constraints"
+  ],
+  "confidence": 0.95
+}

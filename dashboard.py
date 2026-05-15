@@ -1,8 +1,6 @@
 from dotenv import load_dotenv
 load_dotenv()
-import os
-if hasattr(st, "secrets") and "ANTHROPIC_API_KEY" in st.secrets:
-    os.environ["ANTHROPIC_API_KEY"] = st.secrets["ANTHROPIC_API_KEY"]
+
 import json
 import numpy as np
 import pandas as pd
@@ -10,7 +8,18 @@ import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 from pathlib import Path
-from embedder import query_transcript
+SEARCH_AVAILABLE = False
+def query_transcript(query, ticker=None, n_results=5):
+    return []
+
+try:
+    import importlib.util
+    spec = importlib.util.find_spec("chromadb")
+    if spec is not None:
+        from embedder import query_transcript
+        SEARCH_AVAILABLE = True
+except Exception:
+    pass
 
 DATA_DIR = Path("data")
 
@@ -474,7 +483,9 @@ with tab3:
     with col_n:
         n_results = st.selectbox("Results", [5, 10, 15])
 
-    if run_search and query:
+    if not SEARCH_AVAILABLE:
+        st.info("Transcript search is available when running locally. The vector database requires ChromaDB which is not supported on Python 3.14. Run the app locally with python3 -m streamlit run dashboard.py to use this feature.")
+    elif run_search and query:
         try:
             ticker_filter = search_ticker.strip().upper() or None
             results = query_transcript(query, ticker=ticker_filter, n_results=n_results)

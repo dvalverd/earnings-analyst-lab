@@ -1,0 +1,24 @@
+{
+  "ticker": "QCOM",
+  "date": "2020-11-04",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "We delivered Q4 non-GAAP revenues of $6.5 billion and a record non-GAAP earnings of $1.45 per share, representing year-over-year growth of 35% and 86%, respectively, both exceeding the high end of our guidance",
+    "the early stages of the 5G ramp are well under way, with our strategy playing out largely as expected",
+    "In fiscal '20, we delivered $2.4 billion of RF front-end revenue, up 60% year over year"
+  ],
+  "key_bearish_phrases": [
+    "Fiscal 2020 was an extraordinary year, presenting both a unique set of opportunities as well as challenges",
+    "our transition from a 4G leader to a 5G leader was faced with numerous challenges",
+    "we have sustained this focus despite unwarranted legal challenges"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic"
+  ],
+  "confidence": 0.95
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "MA",
+  "date": "2021-04-29",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.72,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We started the year with good momentum, delivering positive net revenue growth this quarter.",
+    "Domestic spending levels showed continued improvement with very strong e-commerce sales.",
+    "We believe there's significant pent-up demand for travel, as we've just seen in domestic travel."
+  ],
+  "key_bearish_phrases": [
+    "crossborder travel spending continues to be in the stabilization phase, where spending is restricted due to closed borders",
+    "crossborder travel remains limited as border restrictions remain in place for most markets.",
+    "progress is not always linear"
+  ],
+  "macro_concerns_mentioned": [
+    "border restrictions",
+    "vaccine rollout timing",
+    "pandemic impact on cross-border travel"
+  ],
+  "confidence": 0.92
+}

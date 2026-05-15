@@ -1,0 +1,21 @@
+{
+  "ticker": "V",
+  "date": "2023-01-26",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "first-quarter net revenues grew 12% year over year and non-GAAP EPS was $2.18, up 21%",
+    "cross-border volumes, excluding intra-Europe, grew 31% year over year and 132% versus three years ago, up five points from Q4",
+    "Travel-related cross-border volumes rose six points from 112% of 2019 in Q4 to 118% in Q1, driven by Asia Pacific, helped by China lifting restrictions"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [
+    "Russia",
+    "China restrictions"
+  ],
+  "confidence": 0.92
+}

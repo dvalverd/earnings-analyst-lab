@@ -1,0 +1,26 @@
+{
+  "ticker": "BAC",
+  "date": "2021-01-19",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we generated a net income of nearly $18 billion, or $1.87 EPS, and earned a return above our cost of capital",
+    "Our full-year revenue of $15 billion from sales and trading rose 17% and we generated more than $7 billion of investment banking revenues this year. An increase of 27% over last year",
+    "we'll once again begin repurchasing shares starting today"
+  ],
+  "key_bearish_phrases": [
+    "2020 was a tough operating environment",
+    "Our EPS was down 32% compared to 2019, driven by the impacts of the coronavirus pandemic on the company and economy",
+    "Provision was higher as a result of reserves built, given the macroeconomic deterioration experienced in the first part of the year"
+  ],
+  "macro_concerns_mentioned": [
+    "interest rates",
+    "coronavirus pandemic",
+    "loan demand"
+  ],
+  "confidence": 0.92
+}

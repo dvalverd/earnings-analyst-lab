@@ -1,0 +1,26 @@
+{
+  "ticker": "WFC",
+  "date": "2023-01-13",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Rising interest rates drove strong net interest income growth",
+    "Our continued progress and our efficiency initiatives helped to drive expenses lower excluding operating losses",
+    "Our capital levels also remained very strong. And our CET1 ratio increased to 10.6%, well above our required minimum plus buffers"
+  ],
+  "key_bearish_phrases": [
+    "Our results were significantly impacted by previously disclosed operating losses",
+    "charge-offs have continued to increase but credit quality remains strong",
+    "While our risk and regulatory work hasn't always followed a straight line and we have more to do"
+  ],
+  "macro_concerns_mentioned": [
+    "interest rates",
+    "regulatory issues",
+    "credit quality"
+  ],
+  "confidence": 0.85
+}

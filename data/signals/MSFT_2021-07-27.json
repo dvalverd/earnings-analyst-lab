@@ -1,0 +1,18 @@
+{
+  "ticker": "MSFT",
+  "date": "2021-07-27",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We had a very strong close to our fiscal year. Our commercial cloud surpassed $69 billion in annual revenue, up 34%.",
+    "In the past three years alone, gaming, security, and now LinkedIn, have all surpassed $10 billion in annual revenue.",
+    "We have seen revenue growth across industries, customer segments, and geographies with over 50% of sales coming from outside the United States."
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.92
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "TSLA",
+  "date": "2021-04-26",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "Q1 2021 was a record quarter on many levels. Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.",
+    "our demand is the best we've ever seen",
+    "I'd say more likely than not, that in 2022, Model Y is the best-selling car or truck of any kind in the world."
+  ],
+  "key_bearish_phrases": [
+    "Q1 was -- had some of the most difficult supply chain challenges that we've ever experienced in the life of Tesla",
+    "people have heard about the chip shortage. This is a huge problem.",
+    "there were more challenges than expected in developing the Model S"
+  ],
+  "macro_concerns_mentioned": [
+    "chip shortage",
+    "supply chain challenges",
+    "COVID quarantine restrictions"
+  ],
+  "confidence": 0.95
+}

@@ -1,0 +1,25 @@
+{
+  "ticker": "NFLX",
+  "date": "2021-01-19",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.3,
+  "management_tone": "cautious",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "2020, which was, by far, a record year with 37 million paid net adds",
+    "the long-term growth trajectory is at least as strong as ever",
+    "viewing is up in every region of the world"
+  ],
+  "key_bearish_phrases": [
+    "there's probably still a little bit of that pull-forward dynamic in the early parts of 2021",
+    "this is one of the more uniquely challenging times...it's more uncertain than we've ever seen",
+    "it's hard enough to project the next 90 days, let alone the next 12 months"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID pull-forward effects",
+    "forecasting uncertainty"
+  ],
+  "confidence": 0.9
+}

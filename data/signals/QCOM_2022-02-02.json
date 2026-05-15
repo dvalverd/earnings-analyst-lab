@@ -1,0 +1,18 @@
+{
+  "ticker": "QCOM",
+  "date": "2022-02-02",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "record fiscal first-quarter revenues of $10.7 billion and record non-GAAP earnings per share of $3.23",
+    "Our chipset business had its second consecutive quarter of record performance with revenues of $8.8 billion, EBIT of $3.1 billion, and EBIT margin of 35%",
+    "In IoT, we continue to see strong momentum with revenue growth of 41% year over year in the first quarter"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

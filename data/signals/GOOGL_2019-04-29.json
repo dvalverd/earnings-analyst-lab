@@ -1,0 +1,27 @@
+{
+  "ticker": "GOOGL",
+  "date": "2019-04-29",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.3,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "total revenues of $36.3 billion were up 17% year-on-year and up 19% in constant currency, following a strong 2018",
+    "our results were driven by ongoing strength in mobile search along with important contributions from YouTube, followed by Cloud",
+    "APAC revenues were $6.1 billion, up 27% versus last year and up 31% in constant currency"
+  ],
+  "key_bearish_phrases": [
+    "Our total revenues of $36.3 billion reflect a negative currency impact year-over-year of $1.2 billion",
+    "Excluding the impact of the EC fine, operating income was $8.3 billion, up 9% versus last year for an operating margin of 23%",
+    "Our effective tax rate was 18.3% for the first quarter, reflecting a sizable impact from the non-deductibility of the EC fine"
+  ],
+  "macro_concerns_mentioned": [
+    "FX headwinds",
+    "weakening of the euro and the British pound",
+    "weakness of the Australian dollar and the Indian rupee",
+    "weakening of the Brazilian real and Argentine peso"
+  ],
+  "confidence": 0.85
+}

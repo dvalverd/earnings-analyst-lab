@@ -1,0 +1,23 @@
+{
+  "ticker": "ORCL",
+  "date": "2021-03-10",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.78,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "in-line",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "EPS beat the midpoint of guidance by $0.05",
+    "operating margin was 47% in USD, up 300 basis points from 44% last year and our best Q3 result in more than 10 years",
+    "OCI consumption revenue, which was up 123%. Autonomous Database was up 55%. Cloud customer consumption revenue was up over 200%"
+  ],
+  "key_bearish_phrases": [
+    "short-term deferred revenue balance was down in constant currency at $8.1 billion",
+    "License revenues were $1.3 billion, up 4% in U.S. dollars and unchanged in constant currency"
+  ],
+  "macro_concerns_mentioned": [
+    "FX headwinds"
+  ],
+  "confidence": 0.95
+}

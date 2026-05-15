@@ -1,0 +1,22 @@
+{
+  "ticker": "PYPL",
+  "date": "2021-02-03",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "I'm pleased to report that PayPal just completed the strongest year in our history, achieving record growth in net new active customers, volume, revenue, operating income, earnings and free cash flow.",
+    "For the year, we delivered a record 73 million net new actives, ending the year with 377 million active accounts, up 24%.",
+    "Our non-GAAP EPS grew a record 31% to $3.88, and our free cash flow increased by 48% of to $5 billion."
+  ],
+  "key_bearish_phrases": [
+    "eBay TPV grew at 1% and exited the year at just under 6% of our total volume."
+  ],
+  "macro_concerns_mentioned": [
+    "pandemic"
+  ],
+  "confidence": 0.95
+}

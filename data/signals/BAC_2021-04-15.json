@@ -1,0 +1,20 @@
+{
+  "ticker": "BAC",
+  "date": "2021-04-15",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we have emerged as an even stronger company and competitor than what we were when we entered the healthcare crisis",
+    "EPS in the first quarter of $0.86 per share, and a return on tangible common equity of 17%",
+    "March was a record month of spending by Bank of America consumers and led to the highest ever quarter of consumer spending"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [
+    "interest rates"
+  ],
+  "confidence": 0.95
+}

@@ -1,0 +1,27 @@
+{
+  "ticker": "AMZN",
+  "date": "2020-07-30",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Our consolidated revenue and operating income significantly exceeded the top end of our guidance range",
+    "Prime member growth rate accelerated both in the U.S. and worldwide",
+    "Online grocery sales tripled year-over-year"
+  ],
+  "key_bearish_phrases": [
+    "In Q2, we incurred more than $4 billion of COVID-related expenses",
+    "We also experienced productivity headwinds in our facilities",
+    "our actual results could differ materially from our guidance"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic",
+    "global economic conditions",
+    "foreign exchange rates",
+    "workforce staffing and productivity"
+  ],
+  "confidence": 0.92
+}

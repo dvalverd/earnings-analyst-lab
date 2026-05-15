@@ -1,0 +1,20 @@
+{
+  "ticker": "ORCL",
+  "date": "2021-06-15",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "we had a fantastic quarter, with revenue nearly $200 million above my guidance",
+    "Our back-office cloud application revenue is not only bigger than our nearest competitor but also growing more than twice as fast",
+    "OCI consumption revenue, which was up 103% in constant currency; Autonomous Database up 56%; and cloud customer revenues up 50%"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [
+    "FX headwinds"
+  ],
+  "confidence": 0.95
+}

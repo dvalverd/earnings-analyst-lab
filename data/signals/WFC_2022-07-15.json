@@ -1,0 +1,27 @@
+{
+  "ticker": "WFC",
+  "date": "2022-07-15",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We had broad-based loan growth with both our consumer and commercial portfolios growing from the first quarter and a year ago.",
+    "Credit card spend increased 28% from a year ago, above the industry trend driven by the new products we launched last year",
+    "Our commercial customers' credit performance remained strong with exceptionally low net charge-offs, and nonaccrual loans were at their lowest level in over 10 years."
+  ],
+  "key_bearish_phrases": [
+    "Revenue declined as growth in net interest income driven by rising interest rates and higher loan balances was more than offset by lower noninterest income as market conditions negatively impacted our venture capital, mortgage banking, investment banking, and wealth management advisory businesses.",
+    "Our results included a $576 million impairment of equity securities, predominantly in our venture capital business due to market conditions.",
+    "we're monitoring risks related to continued high inflation, increasing interest rates, and the slowing economy, which will impact our customers"
+  ],
+  "macro_concerns_mentioned": [
+    "inflation",
+    "interest rates",
+    "slowing economy",
+    "market conditions"
+  ],
+  "confidence": 0.92
+}

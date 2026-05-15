@@ -1,0 +1,26 @@
+{
+  "ticker": "MA",
+  "date": "2021-07-29",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.82,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "The strong momentum we started the year with accelerated this quarter, with net revenue up 31% and EPS up 37% versus a year ago",
+    "quarter 2 net revenues are now 10% over 2019 levels even though international travel is in the early stages of recovery, which is showing the strength of our diversified revenue streams",
+    "Domestic switched volumes are well above pre-pandemic levels with all the regions growing in a healthy rate"
+  ],
+  "key_bearish_phrases": [
+    "depending, of course, on infection rates, including the recent variants and progress on the vaccination front",
+    "international travel is in the early stages of recovery",
+    "Broadening this effort is critical and will of course take time"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID variants",
+    "vaccination progress",
+    "border restrictions"
+  ],
+  "confidence": 0.95
+}

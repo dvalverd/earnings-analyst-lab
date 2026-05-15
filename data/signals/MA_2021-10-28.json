@@ -1,0 +1,26 @@
+{
+  "ticker": "MA",
+  "date": "2021-10-28",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.82,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "Strong revenue and earnings growth continued. The net revenue up 29% and EPS up 48% versus a year ago",
+    "Quarter 3 net revenues are now 11% above pre-COVID levels in 2019",
+    "Overall, cross-border returned to 2019 levels in August, driven by improvements in consumer and commercial travel, as well as the ongoing strength of cross-border card-not-present spending ex travel"
+  ],
+  "key_bearish_phrases": [
+    "economies are facing supply chain constraints, rising energy prices and some other inflationary pressures",
+    "Debit spend remains elevated, although it has moderated in recent weeks in part due to waning stimulus benefits"
+  ],
+  "macro_concerns_mentioned": [
+    "supply chain constraints",
+    "rising energy prices",
+    "inflationary pressures",
+    "waning stimulus benefits"
+  ],
+  "confidence": 0.95
+}

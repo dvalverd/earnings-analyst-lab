@@ -1,0 +1,28 @@
+{
+  "ticker": "WFC",
+  "date": "2022-04-14",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.25,
+  "management_tone": "cautious",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We have broad-based loan growth with both our consumer and commercial portfolios growing from the fourth quarter",
+    "Credit performance remained incredibly strong, and our net charge-off ratio declined to 14 basis points",
+    "we returned a significant amount of capital to our shareholders in the first quarter, including repurchasing $6 billion of common stock and increasing our common stock dividend to $0.25 per share"
+  ],
+  "key_bearish_phrases": [
+    "The mortgage origination market experienced one of its largest quarterly declines that I can remember and it will take time for the industry to reduce excess capacity",
+    "we're entering a period of uncertainty. March was the eighth straight month in which inflation outpaced income with lower-income consumers being most impacted by rising energy and food prices",
+    "We have much more work to do to satisfy our regulatory requirements, and we will likely have setbacks"
+  ],
+  "macro_concerns_mentioned": [
+    "inflation",
+    "interest rates",
+    "Russia or Ukraine conflict",
+    "economic sanctions",
+    "rising energy and food prices"
+  ],
+  "confidence": 0.92
+}

@@ -1,0 +1,25 @@
+{
+  "ticker": "MSFT",
+  "date": "2022-07-26",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "the Microsoft Cloud surpassed $25 billion in quarterly revenue for the first time, up 28% and 33% in constant currency",
+    "won a record number of $100 million-plus and $1 billion-plus deals this quarter",
+    "Transactions in data volume increased over 100% year over year for the fourth quarter in a row"
+  ],
+  "key_bearish_phrases": [
+    "Amid this macroeconomic environment",
+    "use digital technology to overcome today's challenges",
+    "we will manage through this period with an intense focus on prioritization"
+  ],
+  "macro_concerns_mentioned": [
+    "macroeconomic environment",
+    "FX headwinds"
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "MA",
+  "date": "2022-01-27",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "We delivered strong revenue and earnings growth as we saw further improvement in our underlying operating metrics. Quarter 4 net revenues were up 28% and EPS up 46% versus a year ago",
+    "Quarter 4 net revenues are 19% above pre-COVID levels in 2019",
+    "overall Quarter 4 cross-border levels now higher than those in 2019"
+  ],
+  "key_bearish_phrases": [
+    "recent supply chain constraints, geopolitical uncertainties and inflationary pressures",
+    "While Omicron has had some recent impact on cross-border travel",
+    "some near-term travel-related headwinds as a result of the variant"
+  ],
+  "macro_concerns_mentioned": [
+    "supply chain constraints",
+    "geopolitical uncertainties",
+    "inflationary pressures",
+    "Omicron variant",
+    "mobility restrictions"
+  ],
+  "confidence": 0.95
+}

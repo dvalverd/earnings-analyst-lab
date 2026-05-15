@@ -1,0 +1,22 @@
+{
+  "ticker": "INTC",
+  "date": "2021-01-21",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.2,
+  "management_tone": "cautious",
+  "guidance_direction": "withdrawn",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "once again delivered record results in the past year",
+    "The business is well-positioned to capitalize on key technology inflections and extend our reach into fast-growing markets",
+    "I am pleased with the progress made on the health and recovery of the 7-nanometer"
+  ],
+  "key_bearish_phrases": [
+    "we will be providing full-year guidance for 2021 at a later date, no later than our next earnings call in April",
+    "The company faced challenging issues when Bob took over",
+    "lead this great technology innovator during a critical time of change and disruption"
+  ],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.85
+}

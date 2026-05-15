@@ -1,0 +1,18 @@
+{
+  "ticker": "NFLX",
+  "date": "2023-01-19",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we've been able to build a really trusting, respectful, and complementary partnership",
+    "I'm tremendously proud of the partnership that we've developed",
+    "I'm even more excited about continuing to push that into '23"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.75
+}

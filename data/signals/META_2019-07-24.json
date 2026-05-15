@@ -1,0 +1,26 @@
+{
+  "ticker": "META",
+  "date": "2019-07-24",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Our community and business continue to grow and there are now more than 2.7 billion people using Facebook, Instagram, WhatsApp or Messenger each month",
+    "Together, we expect these changes will set a new standard for our industry",
+    "Privacy has always been important to the services we provide and now it's even more central to our future vision for social networking"
+  ],
+  "key_bearish_phrases": [
+    "we've agreed to pay a $5 billion fine",
+    "I expect it will take us longer to ship new products, especially, while we're getting this up and running",
+    "we're going to continue to identify and fix issues as we develop our systems"
+  ],
+  "macro_concerns_mentioned": [
+    "privacy concerns",
+    "regulation",
+    "FTC settlement"
+  ],
+  "confidence": 0.85
+}

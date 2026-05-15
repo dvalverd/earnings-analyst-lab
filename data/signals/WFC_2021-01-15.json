@@ -1,0 +1,27 @@
+{
+  "ticker": "WFC",
+  "date": "2021-01-15",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "our customers continue to be in a much stronger position than we would have anticipated when this crisis began",
+    "Credit continues to perform well as both consumers and companies have benefited from accommodations, ongoing fiscal and monetary stimulus and an improving economic outlook",
+    "there is great potential in the second half of the year for a strong 2021, especially if there is another significant stimulus package"
+  ],
+  "key_bearish_phrases": [
+    "we continue to see an uneven recovery, and increases in COVID cases toward the end of the quarter is negatively impacting the path to recovery",
+    "we expect 2021 will get off to a slow start",
+    "the overall level and shape of the yield curve continued to be a significant drag on our net interest income"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID cases",
+    "unemployment levels",
+    "interest rates",
+    "economic recovery uncertainty"
+  ],
+  "confidence": 0.92
+}

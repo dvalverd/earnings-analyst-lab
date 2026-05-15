@@ -1,0 +1,30 @@
+{
+  "ticker": "BAC",
+  "date": "2022-04-18",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.72,
+  "management_tone": "confident",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Net interest income grew 13% and is expected to grow significantly from here",
+    "We made trading profits every day during the quarter",
+    "We grew pre-tax pre-provision income by 8%. We had a return on tangible common equity of 15.5%"
+  ],
+  "key_bearish_phrases": [
+    "In a quarter that had a lot of variables show up",
+    "All this came in that quarter that saw geopolitical conflict, rising interest rates, a pandemic, rising inflation concerns, and much, much more",
+    "the investment banking fee line was down from the record quarters of the past year"
+  ],
+  "macro_concerns_mentioned": [
+    "geopolitical conflict",
+    "rising interest rates",
+    "pandemic",
+    "rising inflation concerns",
+    "humanitarian crisis in Ukraine",
+    "market turmoil",
+    "supply chains"
+  ],
+  "confidence": 0.92
+}

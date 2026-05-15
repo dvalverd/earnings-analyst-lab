@@ -1,0 +1,27 @@
+{
+  "ticker": "META",
+  "date": "2020-04-29",
+  "overall_sentiment": "bearish",
+  "sentiment_score": -0.4,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we've directed more than 2 billion people to it",
+    "The vast majority of us at Facebook our working productively from home",
+    "this is work that we're uniquely positioned to do, because Facebook is a global community"
+  ],
+  "key_bearish_phrases": [
+    "The impacts on our business has been significant and I remain very concerned that this health emergency and therefore the economic fallout will last longer than people are currently anticipating",
+    "There is a lot of uncertainty now about the world and what it will look like over the coming months",
+    "I worry the reopening in certain places to quickly before infection rates have been reduced to very minimal levels, will almost guarantee future outbreaks and worse, longer-term health and economic outcomes"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19 pandemic",
+    "economic fallout",
+    "shelter-in-place restrictions",
+    "health emergency duration"
+  ],
+  "confidence": 0.95
+}

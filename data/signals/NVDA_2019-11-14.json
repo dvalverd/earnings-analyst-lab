@@ -1,0 +1,22 @@
+{
+  "ticker": "NVDA",
+  "date": "2019-11-14",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Results exceeded our expectation, driven by strength in both desktop and notebook gaming",
+    "RTX GPUs now drive more than two-third of our desktop gaming GPU revenue",
+    "Our hyperscale revenue grew both sequentially and year-on-year and we believe our visibility is improving"
+  ],
+  "key_bearish_phrases": [
+    "Q3 revenue was $3.01 billion, down 5% year-on-year",
+    "revenue of $1.66 billion was down 6% year-on-year",
+    "data center, revenue was $726 million, down 8% year-on-year"
+  ],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.9
+}

@@ -1,0 +1,25 @@
+{
+  "ticker": "WFC",
+  "date": "2021-10-14",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.25,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We earned $5.1 billion or $1.17 per common share in the third quarter",
+    "for the first time since first-quarter 2020, we grew both period-end loans and deposits in the third quarter",
+    "Weekly debit card spend during the third quarter was up every week compared to 2019 and in the week ending October 1 was up 14% compared to 2020 and 26% compared to 2019"
+  ],
+  "key_bearish_phrases": [
+    "Revenue declined on lower gains from equity securities",
+    "Supply chain difficulties and labor shortages continue to represent significant challenges for our client base",
+    "it continues to be the case that we are likely to have setbacks along the way"
+  ],
+  "macro_concerns_mentioned": [
+    "supply chain difficulties",
+    "labor shortages"
+  ],
+  "confidence": 0.92
+}

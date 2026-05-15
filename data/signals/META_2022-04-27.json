@@ -1,0 +1,27 @@
+{
+  "ticker": "META",
+  "date": "2022-04-27",
+  "overall_sentiment": "bearish",
+  "sentiment_score": -0.4,
+  "management_tone": "defensive",
+  "guidance_direction": "lowered",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "More people use our services today than ever before",
+    "I am confident that we can return to better revenue growth rates over time and sustain high operating margins",
+    "Reels already makes up more than 20% of the time that people spend on Instagram"
+  ],
+  "key_bearish_phrases": [
+    "signal loss resulting from Apple's iOS changes, which is a meaningful headwind",
+    "we're now seeing that trend back off",
+    "Unfortunately, that's not going to happen in 2022, given the revenue headwinds"
+  ],
+  "macro_concerns_mentioned": [
+    "war in Ukraine",
+    "softness in e-commerce",
+    "macroeconomic uncertainty",
+    "Russia sanctions"
+  ],
+  "confidence": 0.92
+}

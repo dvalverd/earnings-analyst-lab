@@ -1,0 +1,24 @@
+{
+  "ticker": "BAC",
+  "date": "2022-01-19",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.82,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "The pre-pandemic organic growth engine that is Bank of America is fully back in place and producing success",
+    "Fourth quarter represented the strongest quarter of organic loan growth we have experienced at Bank of America",
+    "We generated more than $7 billion of earnings in every quarter in 2021"
+  ],
+  "key_bearish_phrases": [
+    "Our COVID-related costs remained elevated",
+    "while we do not see full-year operating leverage"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID variant",
+    "rate volatility"
+  ],
+  "confidence": 0.92
+}

@@ -1,0 +1,27 @@
+{
+  "ticker": "MSFT",
+  "date": "2022-10-25",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.3,
+  "management_tone": "cautious",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "the Microsoft Cloud again exceeded $25 billion in quarterly revenue, up 24% and 31% in constant currency",
+    "we expect our broader commercial business to grow at around 20% in constant currency this fiscal year",
+    "We now have more than 8,500 Arc customers, more than double the number a year ago"
+  ],
+  "key_bearish_phrases": [
+    "I want to outline the principles that are guiding us through these changing economic times",
+    "we will be disciplined in managing our cost structure",
+    "as we manage through the cyclical trends affecting our consumer business"
+  ],
+  "macro_concerns_mentioned": [
+    "economic uncertainty",
+    "FX headwinds",
+    "energy costs",
+    "supply chain constraints"
+  ],
+  "confidence": 0.92
+}

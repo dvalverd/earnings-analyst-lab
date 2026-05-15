@@ -1,0 +1,26 @@
+{
+  "ticker": "JPM",
+  "date": "2022-01-14",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we have started to see a pickup in loan growth, 8% year on year and 3% quarter on quarter",
+    "it was an exceptionally strong quarter for investment banking, particularly M&A",
+    "The firm reported net income of $48.3 billion, EPS of $15.36 and record revenue of $125.3 billion"
+  ],
+  "key_bearish_phrases": [
+    "we have seen some softening in recent weeks contemporaneously with the Omicron wave",
+    "our reserve balances still account for various sources of uncertainty and potential downside as a result of the remaining abnormal features of the economic environment",
+    "the lack of vehicle supply resulted in a decline in originations to $8.5 billion, down 23% year on year"
+  ],
+  "macro_concerns_mentioned": [
+    "Omicron wave",
+    "vehicle supply constraints",
+    "economic uncertainty"
+  ],
+  "confidence": 0.92
+}

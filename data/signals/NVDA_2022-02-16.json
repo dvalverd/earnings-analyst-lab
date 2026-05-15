@@ -1,0 +1,24 @@
+{
+  "ticker": "NVDA",
+  "date": "2022-02-16",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We had an excellent quarter with revenue up 53% year on year to $7.6 billion. We set records for total revenue, as well as for Gaming, Data Center, and Professional Visualization.",
+    "Full-year revenue was a record $26.9 billion, up 61%, compounding the prior year's growth of 53%.",
+    "Gaming has become the top entertainment medium that continues to show strong momentum. Just last month, Steam hit a record 28 million concurrent users, up 50% in two years."
+  ],
+  "key_bearish_phrases": [
+    "Availability of our gaming products in the channel remains low.",
+    "Our GPUs are capable of cryptocurrency mining, so we have limited visibility into how much of this impacts our overall GPU demand.",
+    "Cryptomining processor revenue was $24 million, which is included in OEM and other."
+  ],
+  "macro_concerns_mentioned": [
+    "cryptocurrency mining demand visibility"
+  ],
+  "confidence": 0.95
+}

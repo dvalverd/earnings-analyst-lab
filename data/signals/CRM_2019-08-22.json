@@ -1,0 +1,21 @@
+{
+  "ticker": "CRM",
+  "date": "2019-08-22",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.82,
+  "management_tone": "confident",
+  "guidance_direction": "raised",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Revenue in the quarter rose to $4 billion, up 22% in dollars, and 23% in constant currency",
+    "we are raising our fiscal year '20 revenue guidance to $16.9 billion at the high end of our range, representing about 27% growth year-over-year",
+    "we've just never really been better positioned for the future. In fact, we're at the beginning of enormous wave of digital transformation"
+  ],
+  "key_bearish_phrases": [
+    "Due to the whole separate order, our ability to discuss Tableau today on this call is limited",
+    "the United Kingdom Competition and Markets Authority or CMA is reviewing the transaction and has imposed a whole separate order pending completion of its review"
+  ],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

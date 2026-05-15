@@ -1,0 +1,20 @@
+{
+  "ticker": "AMD",
+  "date": "2021-04-27",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We delivered our sixth straight quarter of double-digit percentage year-over-year revenue growth and record quarterly revenue and profitability",
+    "First-quarter revenue increased 93% year over year to $3.45 billion, with growth in all of our businesses",
+    "our revenue is growing significantly faster than the market, particularly in the ultrathin, gaming, and commercial segments"
+  ],
+  "key_bearish_phrases": [
+    "Semi-custom revenue declined by a single-digit percentage sequentially"
+  ],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

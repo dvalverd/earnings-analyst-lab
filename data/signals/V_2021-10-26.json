@@ -1,0 +1,24 @@
+{
+  "ticker": "V",
+  "date": "2021-10-26",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "In doing so, we demonstrated the resiliency of our business and validated our growth strategy as we continue to drive the rapid growth of digital payments",
+    "this quarter, we also set a record with total global payments volume of $2.8 trillion",
+    "Visa is even better positioned for growth than before the pandemic"
+  ],
+  "key_bearish_phrases": [
+    "against the backdrop of economic uncertainty and the lingering impacts of the COVID pandemic",
+    "Cross-border volume, excluding intra-Europe, was 86% of 2019"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID pandemic",
+    "economic uncertainty"
+  ],
+  "confidence": 0.95
+}

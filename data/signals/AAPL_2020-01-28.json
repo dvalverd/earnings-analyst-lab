@@ -1,0 +1,18 @@
+{
+  "ticker": "AAPL",
+  "date": "2020-01-28",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We're thrilled to report Apple's biggest quarter ever, which set new all-time records in both revenue and earnings",
+    "We generated revenue of $91.8 billion, which is above the high end of our guidance range, with revenue growth accelerating for the third consecutive quarter",
+    "Our active installed base of devices has now surpassed 1.5 billion, up over 100 million in the last 12 months alone"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

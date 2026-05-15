@@ -1,0 +1,26 @@
+{
+  "ticker": "WFC",
+  "date": "2021-07-14",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We earned $6 billion or $1.38 per common share in the second quarter",
+    "Revenue increased compared with the first quarter",
+    "we are pleased that our results continue to show progress"
+  ],
+  "key_bearish_phrases": [
+    "high levels of liquidity, weakness in supply chains, and low-interest rates remained as headwinds",
+    "the work remaining is significant, and as such, this remains a multi-year journey for us",
+    "continued decline in Commercial Banking loans outstanding"
+  ],
+  "macro_concerns_mentioned": [
+    "interest rates",
+    "supply chain shortages",
+    "liquidity levels"
+  ],
+  "confidence": 0.92
+}

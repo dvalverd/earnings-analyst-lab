@@ -1,0 +1,23 @@
+{
+  "ticker": "PYPL",
+  "date": "2020-01-29",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.82,
+  "management_tone": "confident",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "I'm pleased to report that PayPal had a strong quarter, ending 2019 with record results across key customer and financial metrics",
+    "Our strong revenue growth, combined with disciplined expense management, enabled a 28% year-over-year increase in our non-GAAP earnings per share to $3.10",
+    "Excluding eBay, TPV grew 29% on an FX-neutral basis to $649 billion as we continue to grow market share"
+  ],
+  "key_bearish_phrases": [
+    "eBay's TPV continues to decline, shrinking by 4% on an FX-neutral basis",
+    "we anticipate that eBay will be approximately 6% of our total TPV by midyear"
+  ],
+  "macro_concerns_mentioned": [
+    "FX headwinds"
+  ],
+  "confidence": 0.95
+}

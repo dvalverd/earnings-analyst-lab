@@ -1,0 +1,31 @@
+{
+  "ticker": "AMZN",
+  "date": "2022-04-28",
+  "overall_sentiment": "bearish",
+  "sentiment_score": -0.4,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Our compound annual growth since before the pandemic stands at 25%, a growth rate higher than what we were seeing before the pandemic",
+    "Delivery speed performance is now approaching levels not seen since the month immediately preceding the pandemic in early 2020",
+    "We also added millions more new Prime members during the quarter"
+  ],
+  "key_bearish_phrases": [
+    "these inflationary pressures have added approximately $2 billion of incremental costs when compared to last year",
+    "we expect they will be around for some time",
+    "We continue to face a variety of cost pressures in our consumer business"
+  ],
+  "macro_concerns_mentioned": [
+    "inflation",
+    "labor shortages",
+    "supply chain constraints",
+    "fuel prices",
+    "Ukraine war",
+    "COVID-19 pandemic",
+    "Omicron variant",
+    "shipping rates"
+  ],
+  "confidence": 0.92
+}

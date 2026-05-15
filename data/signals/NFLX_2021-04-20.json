@@ -1,0 +1,26 @@
+{
+  "ticker": "NFLX",
+  "date": "2021-04-20",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.1,
+  "management_tone": "hedging",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "the business remains healthy, our engagement or viewing per household is -- was up year over year in Q1. Our churn was down year over year and the business is still growing",
+    "the long-term drivers this big transition from linear to streaming entertainment, and that remains as -- as healthy as ever",
+    "we've grown from two years ago to about 150 million members to almost 210 million now. So that's nearly 40% growth"
+  ],
+  "key_bearish_phrases": [
+    "The net adds this quarter came in below your expectations and below the Street's expectations",
+    "it's just a little wobbly right now",
+    "it's -- it's super hard to -- to obviously kind of forecast quarterly subscribers in -- in a typical quarter for us and -- and particularly hard in this -- in this environment"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID",
+    "production shutdown",
+    "competition"
+  ],
+  "confidence": 0.92
+}

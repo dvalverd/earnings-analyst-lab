@@ -1,0 +1,18 @@
+{
+  "ticker": "CRM",
+  "date": "2019-06-04",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "raised",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "revenue in the quarter rose to more than $3.7 billion, up 24% in dollars and 26% in constant currency",
+    "we delivered nearly $2 billion in operating cash flow, up 34% year-over-year",
+    "No other enterprise software company of our size and scale is growing at this rate"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

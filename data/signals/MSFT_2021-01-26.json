@@ -1,0 +1,18 @@
+{
+  "ticker": "MSFT",
+  "date": "2021-01-26",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "It was a record quarter driven by our commercial cloud, which surpassed $16 billion in revenue, up 34% year over year.",
+    "What we are witnessing is the dawn of a second wave of digital transformation sweeping every company and every industry.",
+    "We are seeing momentum in every industry."
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.92
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "JPM",
+  "date": "2021-01-15",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "our customers and clients continue to demonstrate strong financial resilience in the face of an unprecedented pandemic as evidenced in our credit metrics thus far",
+    "We saw continued momentum in investment banking and grew our share to 9.2%",
+    "The firm reported net income of $29.1 billion, EPS of $8.88 on record revenue of nearly $123 billion"
+  ],
+  "key_bearish_phrases": [
+    "we remained cautious about the near term, especially with the number of unemployed still nearly two times pre-pandemic levels and potential payment shock coming to consumers from expiring benefits",
+    "with the near-term outlook still quite uncertain, we remain heavily weighted to our downside scenarios",
+    "Net interest income was down approximately $900 million, or 7%, primarily driven by lower rates"
+  ],
+  "macro_concerns_mentioned": [
+    "interest rates",
+    "unemployment",
+    "pandemic impacts",
+    "expiring benefits",
+    "loan growth muted"
+  ],
+  "confidence": 0.95
+}

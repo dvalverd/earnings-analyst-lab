@@ -1,0 +1,26 @@
+{
+  "ticker": "JPM",
+  "date": "2021-07-13",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Combined debit and credit spend was up 45% year on year and more importantly, up 22% versus the more normal pre-COVID second quarter of 2019",
+    "It was an all-time record for IB fees, up 25% year on year, driven by advisory and debt underwriting",
+    "credit continues to be quite healthy, as evidenced by our exceptionally low net charge-offs across the board"
+  ],
+  "key_bearish_phrases": [
+    "loan growth remains low, flat year on year and up 1% quarter on quarter",
+    "net interest income was down $1.1 billion or 8%, driven by lower markets NII and lower balances in card",
+    "elevated remaining uncertainty about COVID and the shape of the economic recovery"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID",
+    "economic recovery uncertainty",
+    "interest rates"
+  ],
+  "confidence": 0.92
+}

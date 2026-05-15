@@ -1,0 +1,28 @@
+{
+  "ticker": "WFC",
+  "date": "2021-04-14",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.72,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "U.S. GDP growth is on track to surpass its pre-pandemic peak by the end of the summer and is expected to increase in 2021 by more than any year since 1984",
+    "For our customers who received federal stimulus payments, their median deposit balance was up 80% from a year ago. And for all of our customers, including customers who did not receive stimulus payments, median balances were up 62% from a year ago",
+    "Credit quality continued to outperform our expectations with charge-offs at historical lows"
+  ],
+  "key_bearish_phrases": [
+    "low interest rates and tepid loan demand remained headwinds for us during the quarter",
+    "we continue to manage within the constraints of our asset cap, which require us to anticipate the inflows from government stimulus",
+    "there's still many that will continue to need help as not all have benefited equally during the recovery"
+  ],
+  "macro_concerns_mentioned": [
+    "interest rates",
+    "loan demand",
+    "asset cap constraints",
+    "government stimulus impact",
+    "unequal recovery"
+  ],
+  "confidence": 0.92
+}

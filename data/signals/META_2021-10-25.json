@@ -1,0 +1,27 @@
+{
+  "ticker": "META",
+  "date": "2021-10-25",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.1,
+  "management_tone": "defensive",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We made good progress this quarter across a number of product priorities and our community continues to grow. There are now almost 3.6 billion people who actively use one or more of our services",
+    "the bottom line is we expect we'll be able to navigate these headwinds over time with investments that we're already making today",
+    "we believe that our systems are the most effective at reducing harmful content across the industry"
+  ],
+  "key_bearish_phrases": [
+    "As expected, we did experience revenue headwinds this quarter, including from Apple's changes that are not only negatively affecting our business but millions of small businesses in what is already a difficult time for them and the economy",
+    "what we are seeing is a coordinated effort to selectively use leaked documents to paint a false picture of our company",
+    "we are on track to spend more than $5 billion on safety and security in 2021"
+  ],
+  "macro_concerns_mentioned": [
+    "Apple's iOS changes",
+    "difficult economic time",
+    "polarization",
+    "media criticism"
+  ],
+  "confidence": 0.85
+}

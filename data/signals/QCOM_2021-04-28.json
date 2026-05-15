@@ -1,0 +1,25 @@
+{
+  "ticker": "QCOM",
+  "date": "2021-04-28",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "raised",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "Our fiscal second-quarter non-GAAP earnings of $1.90 per share exceeded the high end of our guidance driven by higher licensing revenues and solid performance in our chipset business, representing non-GAAP revenue and EPS year-over-year growth of 52% and 116%, respectively.",
+    "Even this fiscal year with all the unusual challenges, we are on track to deliver results better than what we expected when we started the fiscal year.",
+    "Several years ago, we put in place a strategy to lead in 5G, which today is delivering results beyond our expectations."
+  ],
+  "key_bearish_phrases": [
+    "I want to acknowledge our employees, customers, and partners in India. You and your families are in our thoughts, and we are here to support you through this very challenging time.",
+    "Despite the backdrop of a challenging environment",
+    "Even this fiscal year with all the unusual challenges"
+  ],
+  "macro_concerns_mentioned": [
+    "pandemic",
+    "challenging environment in India"
+  ],
+  "confidence": 0.95
+}

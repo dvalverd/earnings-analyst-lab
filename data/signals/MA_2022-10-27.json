@@ -1,0 +1,28 @@
+{
+  "ticker": "MA",
+  "date": "2022-10-27",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "consumer spending remained resilient, and cross-border travel continues to recover. With this backdrop, we delivered strong revenue and earnings growth through the focused execution of our strategy.",
+    "Third quarter net revenues were up 23% and adjusted operating income up 27%, both versus a year ago on a non-GAAP currency-neutral basis",
+    "Cross-border travel in the third quarter has reached 124% of 2019 levels"
+  ],
+  "key_bearish_phrases": [
+    "the macroeconomic and geopolitical environment remains uncertain. Inflationary pressures have remained elevated and central banks are continuing to take aggressive steps to bring inflation in line.",
+    "Tensions remain high with the war in Ukraine and the supply of natural gas to Europe is a concern.",
+    "Should the market outlook weaken, we are prepared to act quickly to modulate our expenses."
+  ],
+  "macro_concerns_mentioned": [
+    "inflation",
+    "interest rates",
+    "war in Ukraine",
+    "natural gas supply Europe",
+    "geopolitical environment"
+  ],
+  "confidence": 0.95
+}

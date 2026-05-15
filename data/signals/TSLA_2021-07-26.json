@@ -1,0 +1,25 @@
+{
+  "ticker": "TSLA",
+  "date": "2021-07-26",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.65,
+  "management_tone": "confident",
+  "guidance_direction": "maintained",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "Q2 2021 was a record quarter on many levels. We achieved record production, deliveries, and surpassed over $1 billion in GAAP net income for the first time in Tesla's history.",
+    "public sentiment toward EVs is at an inflection point. And at this point, I think almost everyone agrees that electric vehicles are the only way forward.",
+    "we expect to be producing the sort of new design of the Model Y in both factories in limited production later this year."
+  ],
+  "key_bearish_phrases": [
+    "the global chip shortage situation remains quite serious. For the rest of this year, our growth rates will be determined by the slowest part in our supply chain",
+    "The chip supply is fundamentally the governing factor on our output. It is difficult for us to say how long this will last because we don't have -- this is out of our control essentially.",
+    "it's insanely difficult. I'm fond of saying that prototypes are easy, and production is hard."
+  ],
+  "macro_concerns_mentioned": [
+    "chip shortage",
+    "supply chain constraints"
+  ],
+  "confidence": 0.95
+}

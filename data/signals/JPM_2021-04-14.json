@@ -1,0 +1,28 @@
+{
+  "ticker": "JPM",
+  "date": "2021-04-14",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "beat",
+  "key_bullish_phrases": [
+    "the firm reported net income of $14.3 billion, EPS of $4.50 on revenue of 33.1 billion, and delivered a return on tangible common equity of 29%",
+    "recent economic data has been consistently positive, indicating that the recovery may be accelerating faster than we would have thought just a few months ago",
+    "we saw another strong quarter in CIB. In fact, net income was an all-time record with IV fees up 57% year on year"
+  ],
+  "key_bearish_phrases": [
+    "we're also prepared for more adverse outcomes given remaining uncertainties around the impact of new virus strains and the health of the underlying labor markets",
+    "loan growth remains muted, up 1% year on year",
+    "Net interest income was down 1.6 billion or 11%, primarily driven by lower rates"
+  ],
+  "macro_concerns_mentioned": [
+    "interest rates",
+    "virus strains",
+    "labor markets",
+    "SLR constraint",
+    "QE impact on leverage"
+  ],
+  "confidence": 0.95
+}

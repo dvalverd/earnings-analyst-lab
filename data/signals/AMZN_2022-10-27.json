@@ -1,0 +1,29 @@
+{
+  "ticker": "AMZN",
+  "date": "2022-10-27",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Prime members purchased more than 300 million items worldwide, making it the biggest Prime Day net sales event in Amazon's history",
+    "Third-party sellers and the products they offer remain an important strength of our offering for consumers, representing 58% of total paid units sold in Q3, the highest percentage ever",
+    "advertising offerings where sales grew 30% year over year"
+  ],
+  "key_bearish_phrases": [
+    "This represents a headwind of approximately $900 million, more than we initially guided to",
+    "Our results are inherently unpredictable and may be materially affected by many factors, including uncertainty regarding the impacts of the COVID-19 pandemic, fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions",
+    "the impact of recessionary fears, inflation, interest rates, regional labor market, and global supply chain constraints"
+  ],
+  "macro_concerns_mentioned": [
+    "FX headwinds",
+    "inflation",
+    "interest rates",
+    "recessionary fears",
+    "supply chain constraints",
+    "labor market"
+  ],
+  "confidence": 0.9
+}

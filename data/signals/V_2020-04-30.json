@@ -1,0 +1,25 @@
+{
+  "ticker": "V",
+  "date": "2020-04-30",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.1,
+  "management_tone": "cautious",
+  "guidance_direction": "withdrawn",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "I want to be absolutely clear that nothing has changed about these opportunities in terms of the medium and long-term growth for the company.",
+    "We remain committed to investing in the future, in product development, in technology, our brand and business development.",
+    "our network infrastructure and application performance has been unaffected even as we transitioned the vast majority of our employees to a work-from-home status"
+  ],
+  "key_bearish_phrases": [
+    "A year that looks quite promising after a solid first quarter has been substantially disrupted by COVID-19.",
+    "the business has been negatively impacted in March and April",
+    "we are certainly being quite careful about our spending on our expense base and we are pulling back on discretionary spending"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19",
+    "cross-border volumes weakening"
+  ],
+  "confidence": 0.92
+}

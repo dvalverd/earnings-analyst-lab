@@ -1,0 +1,18 @@
+{
+  "ticker": "AMD",
+  "date": "2022-08-02",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "This was an excellent quarter for our business as we delivered record revenue and profitability based on our strong execution, leadership product portfolio and diversified business model",
+    "Revenue grew 70% year over year to a record $6.6 billion. We also expanded gross margin six percentage points year over year to 54% and set records for operating and net income, both of which more than doubled from the prior year",
+    "customer pull for our next-generation 5-nanometer generalist server CPU is very strong. We are on track to launch and ramp production of Genoa as the industry's highest performance general-purpose server CPU later this year"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

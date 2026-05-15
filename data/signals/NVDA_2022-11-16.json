@@ -1,0 +1,27 @@
+{
+  "ticker": "NVDA",
+  "date": "2022-11-16",
+  "overall_sentiment": "neutral",
+  "sentiment_score": 0.1,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "We delivered record data center and automotive revenue",
+    "H-100 delivers incredible value compared to the previous generation for equivalent AI performance it offers three x lower total cost of ownership while using five x fewer server nodes and 3.5 x less energy",
+    "Year-on-year growth was driven primarily by leading U.S. cloud providers and a broadening set of consumer Internet companies for workloads such as large language models, recommendation systems and generative AI"
+  ],
+  "key_bearish_phrases": [
+    "Q3 revenue was $5.93 billion, down 12% sequentially and down 17% year on year",
+    "our gaming and pro visualization platforms declined as we work through channel inventory corrections and challenging external conditions",
+    "demand in China more broadly remains soft, and we expect that to continue in the current quarter"
+  ],
+  "macro_concerns_mentioned": [
+    "macroeconomic challenges",
+    "export controls",
+    "supply chain disruptions",
+    "China demand weakness"
+  ],
+  "confidence": 0.95
+}

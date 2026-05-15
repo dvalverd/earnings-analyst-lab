@@ -1,0 +1,28 @@
+{
+  "ticker": "JPM",
+  "date": "2022-04-13",
+  "overall_sentiment": "neutral",
+  "sentiment_score": -0.15,
+  "management_tone": "cautious",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "we're continuing to see positive trends with loans up 8% year on year",
+    "NII ex markets was up 1 billion, or 9%, on balance sheet growth and higher rates",
+    "our current capital and future earnings profile position as well to continue supporting business growth"
+  ],
+  "key_bearish_phrases": [
+    "We've build 902 million in reserves, driven by increasing the probability of downside risks due to high inflation and the war in Ukraine",
+    "approximately $900 million of credit reserve builds, as well as $500 million of losses in credit adjustments",
+    "IB fees were down 31% year on year"
+  ],
+  "macro_concerns_mentioned": [
+    "high inflation",
+    "war in Ukraine",
+    "interest rates",
+    "market volatility",
+    "commodities price increases"
+  ],
+  "confidence": 0.92
+}

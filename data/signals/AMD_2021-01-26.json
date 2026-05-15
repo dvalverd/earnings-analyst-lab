@@ -1,0 +1,23 @@
+{
+  "ticker": "AMD",
+  "date": "2021-01-26",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Annual revenue grew 45%, setting a new record at $9.76 billion",
+    "Revenue grew 53% year over year to a record $3.24 billion, while net income increased 66%",
+    "Server processor sales more than doubled year over year"
+  ],
+  "key_bearish_phrases": [
+    "In graphics, revenue declined year over year",
+    "Data center GPU revenue decreased year over year"
+  ],
+  "macro_concerns_mentioned": [
+    "COVID-19"
+  ],
+  "confidence": 0.95
+}

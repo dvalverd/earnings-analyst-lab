@@ -1,0 +1,18 @@
+{
+  "ticker": "CRM",
+  "date": "2020-02-25",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.85,
+  "management_tone": "confident",
+  "guidance_direction": "raised",
+  "revenue_surprise_language": "beat",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Revenue in the quarter rose to nearly $4.9 billion, up 34% in constant currency, truly amazing for a company of our size",
+    "we're raising our fiscal year 2021 revenue guidance to $21.1 billion at the high end of our range, representing about 23% projected growth year-over-year",
+    "no other company of our size is growing at this rate"
+  ],
+  "key_bearish_phrases": [],
+  "macro_concerns_mentioned": [],
+  "confidence": 0.95
+}

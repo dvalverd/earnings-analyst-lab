@@ -1,0 +1,24 @@
+{
+  "ticker": "CRM",
+  "date": "2022-03-01",
+  "overall_sentiment": "bullish",
+  "sentiment_score": 0.75,
+  "management_tone": "confident",
+  "guidance_direction": "none",
+  "revenue_surprise_language": "none",
+  "eps_surprise_language": "none",
+  "key_bullish_phrases": [
+    "Salesforce had perhaps the best quarter it's ever had in its history",
+    "we are in a very different position in the world today, fighting these things than we were a couple of years ago",
+    "We have 75,000 employees now in the company. Thirty-five thousand of our 75,000 employees have started since the pandemic"
+  ],
+  "key_bearish_phrases": [
+    "This is probably one of those calls that the most difficult type of call that we can do",
+    "all of us are witnesses to tragedies that we cannot believe our eyes"
+  ],
+  "macro_concerns_mentioned": [
+    "Ukraine-Russia conflict",
+    "COVID-19 pandemic"
+  ],
+  "confidence": 0.85
+}
