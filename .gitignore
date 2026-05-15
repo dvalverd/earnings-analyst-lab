@@ -11,3 +11,5 @@ data/*.json
 __pycache__/
 *.pyc
 .DS_Store
+motley-fool-data.pkl
+*.pkl
