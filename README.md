@@ -2,6 +2,7 @@
 
 A pipeline that extracts structured signals from earnings call transcripts using Claude, then backtests those signals against forward price returns. Includes a Streamlit dashboard for exploring results.
 
+<kbd>[▸ Live Demo — earnings-analyst-lab.onrender.com](https://earnings-analyst-lab.onrender.com)</kbd>
 ## What it does
 
 1. Loads real earnings call transcripts from a Kaggle dataset
