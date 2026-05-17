@@ -1,19 +1,21 @@
 import os
 import streamlit as st
 
-
 try:
     from dotenv import load_dotenv
     load_dotenv()
 except ImportError:
     pass
 
-if hasattr(st, "secrets") and "ANTHROPIC_API_KEY" in st.secrets:
-    os.environ["ANTHROPIC_API_KEY"] = st.secrets["ANTHROPIC_API_KEY"]
+try:
+    if "ANTHROPIC_API_KEY" in st.secrets:
+        os.environ["ANTHROPIC_API_KEY"] = st.secrets["ANTHROPIC_API_KEY"]
+except Exception:
+    pass
+
 import json
 import numpy as np
 import pandas as pd
-import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 from pathlib import Path
